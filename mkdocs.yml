@@ -1,16 +1,18 @@
 # --- Configuración General del Sitio ---
+site_url: https://aririzwei.github.io/En-el-Foco-Cl-nico/ 
+
 site_name: En el Foco Clínico
 site_description: Compendio de patologías GES para consulta rápida.
 site_author: (Fran "Ari" Ariamis Fernández Reyes)
+
 
 # --- Tema y Apariencia (Material for MkDocs) ---
 theme:
     name: material
     
     # --- Logo y Favicon ---
-    # (Asegúrate de crear una carpeta "docs/assets" y poner tus imágenes "logo.png" y "favicon.png" ahí)
     logo: assets/logo.png
-    favicon: assets/favicon.png
+    favicon: assets/logo.png
 
     # --- Esquema de Color (Scheme) y Paleta (Palette) ---
     # Habilita el selector de modo claro / oscuro
@@ -40,7 +42,11 @@ theme:
         - search.highlight    # Resalta los términos de búsqueda en los resultados
         - content.code.copy   # Añade un botón para copiar bloques de código
         - navigation.footer   # Añade botones Siguiente/Anterior al final de la página
-
+        - content.social.links
+extra: 
+    social:
+        - icon: fontawesome/solid/book-medical
+          link: https://aririzwei.github.io/En-el-Foco-Cl-nico/   
 # --- Navegación (nav) ---
 # Estructura del menú lateral y las pestañas
 nav:
@@ -70,7 +76,7 @@ nav:
         - Oncología:
             - 'GES N°3: Cáncer Cervico Uterino': Oncologia/ges03.md
             - 'GES N°4: Cuidados Paliativos': Oncologia/ges04.md
-            - 'GES N°8: Cáncer de Mama (Mayores de 15 años)': Oncologia/ges08_CaMa.md
+            - 'GES N°8: Cáncer de Mama (Mayores de 15 años)': Oncologia/ges08.md
             - 'GES N°14 Cánceres en menores de 15 años': Oncologia/ges14_Ca15.md
             - 'GES N°14.1: Linfoma y Tumores Sólidos': Oncologia/ges141_Linfoma.md
             - 'GES N°14.2: Leucemia': Oncologia/ges142_Leucemia.md
@@ -161,19 +167,29 @@ nav:
 plugins:
     - search:
         lang: es                # Habilita búsqueda en español
-        separator: '[\s\-\.]+'  # Mejora la búsqueda separando palabras por espacios, guiones y puntos
+        separator: '[\s\-\.]+'  # Mejora la búsqueda
+    
+    - tags:                     # NUEVO: Habilita el plugin de etiquetas
+        tags_file: 'tags.md'    # Opcional: crea una página con todas las etiquetas
+
+    - git-revision-date-localized: # NUEVO: Muestra la fecha de última actualización
+        type: date              # Muestra la fecha (ej. "30 de octubre de 2025")
+        locale: es              # Configura la fecha en español
+        fallback: '[En desarrollo]' # Texto para páginas nuevas aún no guardadas en Git
+
     - awesome-pages             # Gestiona la navegación automáticamente
     - macros                    # Permite usar variables y macros
     - mermaid2                  # Permite crear diagramas con sintaxis Mermaid
     - glightbox                 # Habilita el lightbox para imágenes
+    
+    - print-site:               # Habilita la opción de imprimir/exportar a PDF
+        add_to_navigation: true # Añade un enlace de 'Imprimir' al menú
+        print_page_title: 'Imprimir esta página'
+        # La línea 'banner_template' se eliminó porque causaba un error (opción no válida)
+    
     - minify:                   # Optimiza los archivos generados
         minify_html: true
         minify_js: true
         minify_css: true
         htmlmin_opts:
-            remove_comments: true # Opcional: quita comentarios HTML
-    - print-site:               # Habilita la opción de imprimir/exportar a PDF
-        add_to_navigation: true # Añade un enlace de 'Imprimir' al menú
-        print_page_title: 'Imprimir esta página'
-        add_print_site_banner: true
-        # banner_template: 'docs/assets/print_banner.tpl' # Opcional: Plantilla para banner de impresión
+            remove_comments: true
