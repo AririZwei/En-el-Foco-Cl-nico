@@ -25,7 +25,7 @@ Esta condición aparece en niños sanos, sin una causa aparente, y afecta predom
 
 1. Tratamiento→ Cirugía: El tratamiento quirúrgico debe iniciarse dentro de 270 días (~9 meses) desde la confirmación diagnóstica con indicación quirúrgica.
 
-3. Seguimiento→ Primer control post-operatorio: Dentro de 10 días tras el alta hospitalaria.
+2. Seguimiento→ Primer control post-operatorio: Dentro de 10 días tras el alta hospitalaria.
 
 **Protección Financiera:**
 

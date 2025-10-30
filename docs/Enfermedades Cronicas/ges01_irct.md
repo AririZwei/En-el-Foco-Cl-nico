@@ -28,7 +28,7 @@ Esto Incluye:
 * Acceso a estudio pre-trasplante en pacientes con ERC etapa IV, según indicación médica.
 * Continuidad del tratamiento para quienes ya están en diálisis o han sido trasplantados.
 
-**Oportunidad: ¿Cuáñes son los plazos máximos de espera?**
+**Oportunidad: ¿Cuáles son los plazos máximos de espera?**
 
 La oportunidad se activa desde que se confirma el diagnóstico con indicación de tratamiento:
 
