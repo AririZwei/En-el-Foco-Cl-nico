@@ -177,7 +177,7 @@ El objetivo es abrir la arteria ocluida lo antes posible, idealmente en las prim
 	
 	* Tiempo Objetivo (desde Primer Contacto)→ Iniciar la Infusión en <30 min.
 	
-	*Después de la fibrinólisis (exitosa o no), todos los pacientes deben ser trasladados a un centro con capacidad de ICP para realizar una coronariografía de rutina (entre 2 y 24hrs después).
+	* Después de la fibrinólisis (exitosa o no), todos los pacientes deben ser trasladados a un centro con capacidad de ICP para realizar una coronariografía de rutina (entre 2 y 24hrs después).
 
 ##Manejo Farmacológico Adyuvante
 
@@ -201,7 +201,7 @@ El objetivo es abrir la arteria ocluida lo antes posible, idealmente en las prim
 		
 		* Reducen la mortalidad al disminuir la demanda de O2 del miocardio, reducir el riesgo de arritmias y prevenir el remodelado adverso.
 		
-	*IECA/ARA II→ Iniciar precozmente, especialmente en pacientes con FEVI ≤40%, ICC, HTA o DM.
+	* IECA/ARA II→ Iniciar precozmente, especialmente en pacientes con FEVI ≤40%, ICC, HTA o DM.
 		
 		* Previenen el remodelado ventrícular adverso y reducen la mortalidad.
 		
