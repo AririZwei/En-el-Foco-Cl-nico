@@ -48,9 +48,9 @@ nav:
     - Resúmenes AUGE:
         - Enfermedades Cronicas:
             - 'GES N°1: Insuficiencia Renal': Enfermedades Cronicas/ges01_irct.md
-            - 'GES N°6: Diabetes Mellitus tipo 1': Enfermedades Cronicas/ges06_DM1.md
-            - 'GES N°6.1: Cetoacidosis Diabética': Enfermedades Cronicas/ges061_CAD.md
-            - 'GES N°7: Diabetes Mellitus tipo 2': Enfermedades Cronicas/ges07_DM2.md
+            - 'GES N°6: Diabetes Mellitus tipo 1': Enfermedades Cronicas/ges06.md
+            - 'GES N°6.1: Cetoacidosis Diabética': Enfermedades Cronicas/ges061.md
+            - 'GES N°7: Diabetes Mellitus tipo 2': Enfermedades Cronicas/ges07.md
             - 'GES N°7.1: Síndrome Hiperosmolar Hiperglicémico': Enfermedades Cronicas/ges071_SHH.md 
             - 'GES N°18: VIH/SIDA: Adulto': Enfermedades Cronicas/ges18_VIHa.md
             - 'GES N°18.1: VIH/SIDA: Pediátrico': Enfermedades Cronicas/ges181_VIHp.md
