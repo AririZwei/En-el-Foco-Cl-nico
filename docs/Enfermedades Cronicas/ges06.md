@@ -47,17 +47,17 @@ La DM1 es el resultado de una compleja interacción entre factores genéticos y 
  
 **Mecanismo Fisiopatológico→** El sistema inmunitario del propio individuo ataca y destruye por error las células beta de los islotes de Langerhans en el páncreas. 
 
-	* Este proceso es mediado por linfocitos T y la presencia de autoanticuerpos circulantes contra antígenos de las células beta. 
+* Este proceso es mediado por linfocitos T y la presencia de autoanticuerpos circulantes contra antígenos de las células beta. 
 
-	* Los anticuerpos más comunes son:
+* Los anticuerpos más comunes son:
 
-	 * Anticuerpos anti-insulina (IAA).
+	* Anticuerpos anti-insulina (IAA).
 	 
-	 * Anticuerpos anti-descarboxilasa del ácido glutámico (GADA).
+	* Anticuerpos anti-descarboxilasa del ácido glutámico (GADA).
 	 
-	 * Anticuerpos anti-fosfatasa de tirosina (IA-2 y IA-2β).
+	* Anticuerpos anti-fosfatasa de tirosina (IA-2 y IA-2β).
 	 
-	 * Anticuerpos anti-transportador de zinc 8 (ZnT8)→ La destrucción es progresiva y los síntomas clínicos de la diabetes (hiperglicemia) aparecen cuando se ha perdido ~80-90% de la masa de células beta.
+	* Anticuerpos anti-transportador de zinc 8 (ZnT8)→ La destrucción es progresiva y los síntomas clínicos de la diabetes (hiperglicemia) aparecen cuando se ha perdido ~80-90% de la masa de células beta.
 	 
 ##Factores de Riesgo:
 
@@ -69,7 +69,7 @@ La DM1 es el resultado de una compleja interacción entre factores genéticos y 
 		
 	* Infecciones virales (ej. enterovirus, virus Coxsackie B).
 		
-	*Factores dietéticos en la infancia temprana (introducción precoz de leche de vaca).
+	* Factores dietéticos en la infancia temprana (introducción precoz de leche de vaca).
  
 	* Exposición a ciertas toxinas.
 
