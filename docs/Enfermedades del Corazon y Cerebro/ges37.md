@@ -1,7 +1,7 @@
 #GES N°37: ACV Isquémico en personas de 15 años o más.
 ##Generalidades y Definición
 
-Se define como un **déficit neurológico focal 2rio a una reducción/interrupción del flujo sanguíneo cerebreal (FSC), que ocasiona necrosis tisular, y del cual se distinguen 2 cuadros:
+Se define como un **déficit neurológico focal 2rio a una reducción/interrupción del flujo sanguíneo cerebreal (FSC), que ocasiona necrosis tisular, y del cual se distinguen 2 cuadros:**
 
 1. Infarto Cerebral: Daño irreversible tisular.
 
