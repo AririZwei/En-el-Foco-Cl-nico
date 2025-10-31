@@ -99,7 +99,7 @@ nav:
             - 'GES N°83: Cáncer Renal': Oncologia/ges83.md
             - 'GES N°84: Mieloma Múltiple': Oncologia/ges84.md
         - Enfermedades del Corazon y Cerebro:
-            - 'GES N°5: IAM con SDST': Enfermedades del Corazon y Cerebro/ges05.md
+            - 'GES N°5: IAMCEST': Enfermedades del Corazon y Cerebro/ges05.md
             - 'GES N°25: Trastornos de Generación del Impulso y su Conducción, que requieren Marcapaso': Enfermedades del Corazon y Cerebro/ges25.md
             - 'GES N°37: Accidente Cerebrovascular (ACV) Isquémico': Enfermedades del Corazon y Cerebro/ges37.md
             - 'GES N°42: Hemorragia Subaracnoídea a Rotura de Aneurismas Cerebrales': Enfermedades del Corazon y Cerebro/ges42.md
@@ -138,14 +138,12 @@ nav:
         - Salud Oral:
             - 'GES N°46: Urgencia Odontológica Ambulatoria': Salud Oral/ges46.md
             - 'GES N°66: Atención Odontológica Integral de la Embarazada': Salud Oral/ges66.md
-            - 'GES N°66.1: Patología Pulpar y Periapical en Dentición Permanente': Salud Oral/ges661.md
         - Salud del Adulto Mayor de 65 años:
             - 'GES N°12: Artrosis de Cadera con Limitación Funcional Severa': Salud del Adulto Mayor de 65 años/ges12.md
             - 'GES N°29: Vicios de Refracción': Salud del Adulto Mayor de 65 años/ges29.md
             - 'GES N°36: Ayudas Técnicas': Salud del Adulto Mayor de 65 años/ges36.md
             - 'GES N°41: Artrosis de Cadera y/o Rodilla Leve o Moderada': Salud del Adulto Mayor de 65 años/ges41.md
             - 'GES N°47: Salud Oral Integral para personas con Edentulismo Parcial o Total': Salud del Adulto Mayor de 65 años/ges47.md
-            - 'GES N°47.1: Prevención y Tratamiento de Carias Radiculares': Salud del Adulto Mayor de 65 años/ges471.md
             - 'GES N°56: Hipoacusia Bilateral que requiere uso de Audífono': Salud del Adulto Mayor de 65 años/ges56.md
         - Salud en Personas Menores de 15 años:
             - 'GES N°2: Cardiopatías Congénitas Operables': Salud en Personas Menores de 15 años/ges02.md

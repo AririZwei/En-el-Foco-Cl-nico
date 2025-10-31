@@ -83,7 +83,7 @@ Se caracteriza por ser bifásica: Una respuesta local a nivel cutáneo y otra re
 
 	* Álcalis→ Producen necrosis licuefactiva: Saponifican las grasas de las membranas celulares, permitiendo que el químico penetre profundamente en los tejidos.
 	
-		*Son más graves y el lavado debe ser más prolongado.
+		* Son más graves y el lavado debe ser más prolongado.
 		
 	* Ácidos→ Producen necrosis coagulativa: Coagulan las proteínas superficiales, creando una escara que, a veces, limita su propia penetración.
 	
