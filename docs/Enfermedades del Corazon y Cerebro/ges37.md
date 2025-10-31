@@ -153,7 +153,7 @@ El acrónimo F.A.S.T hace referencia a los signos de alarma prehospitalarios:
 	
 		* NIHSS→ Leve (≤4 pts), Moderado (5-15 pts), Moderado a Grave (16-20 pts) y Grave (≥21 pts).
 		
-			![Escala de NIHSS](../imagenes/ges37NIHSS.png)
+			![Escala de NIHSS](../imagenes/ges37/NIHSS.png)
 	
 	* Examen Oftalmológico y Exploración de cuello (Soplos Carotideos).
 	
