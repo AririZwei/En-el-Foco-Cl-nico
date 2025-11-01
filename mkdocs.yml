@@ -79,11 +79,9 @@ nav:
             - 'GES N°8: Cáncer de Mama (Mayores de 15 años)': Oncologia/ges08.md
             - 'GES N°14.1: Linfoma y Tumores Sólidos': Oncologia/ges141.md
             - 'GES N°14.2: Leucemia': Oncologia/ges142.md
-            - 'GES N°14.3: Linfoma': Oncologia/ges143.md
-            - 'GES N°16: Cáncer de Testículo': Oncologia/ges16_CaTes.md
-            - 'GES N°17: Linfoma en personas de 15 años y más': Oncologia/ges17_Linfomaa.md
-            - 'GES N°17.1: Linfoma de Hodgkin': Oncologia/ges171_LH.md
-            - 'GES N°17.2: Linfoma no Hodgkin': Oncologia/ges172_LNH.md
+            - 'GES N°16: Cáncer de Testículo': Oncologia/ges16.md
+            - 'GES N°17.1: Linfoma de Hodgkin': Oncologia/ges171.md
+            - 'GES N°17.2: Linfoma no Hodgkin': Oncologia/ges172.md
             - 'GES N°26: Colecistectomía Preventiva en adultos de 35 a 49 años': Oncologia/ges26_ColeP.md
             - 'GES N°27: Cáncer Gástrico': Oncologia/ges27.md
             - 'GES N°28: Cáncer de Próstata': Oncologia/ges28.md

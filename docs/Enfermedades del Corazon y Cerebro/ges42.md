@@ -3,7 +3,7 @@
 
 La Hemorragia Subaracnoídea (HSA) **es la extravasación de sangre en el espacio subaracnoideo, el área entre las membranas aracnoides y piamadre que rodean el cerebro, un espacio vital por donde circula el LCR.**
 
-Por otro lado, un aneurisma **es una dilatación patológica de la pared de una arteria, en este caso, cerebral. Su rotura provoca un sangrado súbito y de alta presión directamente en el LCR, cubriendo la base del cerebro y los grandes vasos.
+Por otro lado, un aneurisma **es una dilatación patológica de la pared de una arteria, en este caso, cerebral**. Su rotura provoca un sangrado súbito y de alta presión directamente en el LCR, cubriendo la base del cerebro y los grandes vasos.
 
 ##Fisiopatología
 
