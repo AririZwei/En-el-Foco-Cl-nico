@@ -12,7 +12,7 @@ Por ahora, nos centraremos en patologías APS, específicamente en realizar una 
 
 * Enfermedades Crónicas: INCOMPLETO
 
-* Oncología: INCOMPLETO
+* Oncología: INCOMPLETO→ Faltan algunas Imágenes
 
 * Enfermedades del Corazón y Cerebro: COMPLETO
 
