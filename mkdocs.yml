@@ -57,15 +57,15 @@ nav:
             - 'GES N°6: Diabetes Mellitus tipo 1': Enfermedades Cronicas/ges06.md
             - 'GES N°6.1: Cetoacidosis Diabética': Enfermedades Cronicas/ges061.md
             - 'GES N°7: Diabetes Mellitus tipo 2': Enfermedades Cronicas/ges07.md
-            - 'GES N°7.1: Síndrome Hiperosmolar Hiperglicémico': Enfermedades Cronicas/ges071_SHH.md 
-            - 'GES N°18: VIH/SIDA: Adulto': Enfermedades Cronicas/ges18_VIHa.md
-            - 'GES N°18.1: VIH/SIDA: Pediátrico': Enfermedades Cronicas/ges181_VIHp.md
-            - 'GES N°21: Hipertensión Arterial Primaria/Esencial en personas de 15 años y más': Enfermedades Cronicas/ges21_HTA.md 
+            - 'GES N°7.1: Síndrome Hiperosmolar Hiperglicémico': Enfermedades Cronicas/ges071.md 
+            - 'GES N°18: VIH/SIDA: Adulto': Enfermedades Cronicas/ges18.md
+            - 'GES N°18.1: VIH/SIDA: Pediátrico': Enfermedades Cronicas/ges181.md
+            - 'GES N°21: Hipertensión Arterial Primaria/Esencial en personas de 15 años y más': Enfermedades Cronicas/ges21.md 
             - 'GES N°33: Hemofilia': Enfermedades Cronicas/ges33_Hemofilia.md 
             - 'GES N°51: Fibrosis Quística': Enfermedades Cronicas/ges51_FQ.md
             - 'GES N°52: Artritis Reumatoidea': Enfermedades Cronicas/ges52_AR.md
             - 'GES N°60: Epilepsia en el adulto': Enfermedades Cronicas/ges60_Epilepsia.md
-            - 'GES N°62: Enfermedad de Parkinson': Enfermedades Cronicas/ges62_Parkinson.md
+            - 'GES N°62: Enfermedad de Parkinson': Enfermedades Cronicas/ges62.md
             - 'GES N°63: Artritis Idiopática Juvenil/Artritis Reumatoidea Juvenil': Enfermedades Cronicas/ges63_ARJ.md 
             - 'GES N°67: Esclerosis Múltiple': Enfermedades Cronicas/ges67_EM.md
             - 'GES N°68: Virus Hepatitis B (VHB)': Enfermedades Cronicas/ges68_VHB.md
@@ -91,7 +91,7 @@ nav:
             - 'GES N°71: Cáncer Ovario Epitelial': Oncologia/ges71.md
             - 'GES N°72: Cáncer Vesical': Oncologia/ges72.md
             - 'GES N°73: Osteosarcoma': Oncologia/ges73.md
-            - 'GES N°81: Cáncer Pulmonar': oncologia/ges81_cp.md
+            - 'GES N°81: Cáncer Pulmonar': oncologia/ges81.md
             - 'GES N°82: Cáncer de Tiroides': Oncologia/ges82.md
             - 'GES N°83: Cáncer Renal': Oncologia/ges83.md
             - 'GES N°84: Mieloma Múltiple': Oncologia/ges84.md

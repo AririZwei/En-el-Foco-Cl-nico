@@ -1,5 +1,5 @@
 #GES N°82: Cáncer de Tiroides.
-##Generalidades y Definición
+##Generalidades y Definición 
 
 El cáncer de tiroides es una neoplasia maligna que se origina en las células que componen la glándula tiroides. Es el cáncer endocrino más frecuente a nivel mundial. Su incidencia ha experimentado un aumento dramático en las últimas tres décadas, un fenómeno que se atribuye en gran parte a la alta sensibilidad de la ecografía cervical, que permite la detección de tumores muy pequeños (microcarcinomas, ≤1 cm) e indolentes que probablemente nunca habrían causado síntomas.
 
@@ -145,7 +145,7 @@ El manejo debe ser individualizado, basándose en la estratificación de riesgo 
 
 1. Vigilancia Activa (Monitoreo): Es una opción válida y cada vez más aceptada para Microcarcinomas Papilares ( <1 cm ) que son de bajo riesgo (intratiroideos, N0, M0, sin variantes agresivas) y no están en localizaciones peligrosas (ej. cerca del nervio recurrente o tráquea). Requiere un paciente informado y adherente, y un seguimiento ecográfico estricto (cada 6-12 meses). Se ofrece cirugía si crece >3mm o aparecen ganglios.
 
-* Manejo Quirúrgico (Pilar del Tratamiento):**
+*Manejo Quirúrgico (Pilar del Tratamiento):**
 
 La elección de la extensión de la cirugía depende del riesgo del tumor y de factores del paciente.
 

@@ -1,5 +1,5 @@
 #GES N°81: Cáncer Pulmonar.
-##Generalidades y Definición  
+##Generalidades y Definición    
 
 El cáncer de pulmón es una neoplasia maligna que se origina en el epitelio que recubre las vías aéreas (bronquios) o en las unidades funcionales del pulmón (alvéolos). A nivel global, no solo es el cáncer más diagnosticado, sino que también representa la principal causa de muerte por cáncer en todo el mundo, superando las muertes por cáncer de mama, próstata y colorrectal combinados. Su elevada letalidad está intrínsecamente ligada a su presentación clínica; más del 70% de los pacientes se diagnostican en etapas localmente avanzadas o metastásicas, cuando las opciones de tratamiento curativo son limitadas.
 

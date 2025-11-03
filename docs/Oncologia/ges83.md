@@ -191,46 +191,46 @@ Esencial para definir la estrategia de tratamiento sistémico. Clasifica a los p
 
 El objetivo es curativo y el pilar es la cirugía.
 
-	* Manejo Quirúrgico:
+* Manejo Quirúrgico:
 
-		* Nefrectomía Parcial (Cirugía preservadora de nefronas): Es el gold standard de tratamiento para tumores T1a (≤ 4 cm) y el tratamiento de elección para T1b (4-7 cm) siempre que sea técnicamente factible y seguro. El objetivo es oncológico (extirpar el tumor) pero también funcional (preservar la mayor cantidad de parénquima renal sano). Se asocia a menor riesgo de enfermedad renal crónica, eventos cardiovasculares y mortalidad a largo plazo. Hoy se realiza preferentemente por vía mínimamente invasiva (laparoscópica o robótica).
+	* Nefrectomía Parcial (Cirugía preservadora de nefronas): Es el gold standard de tratamiento para tumores T1a (≤ 4 cm) y el tratamiento de elección para T1b (4-7 cm) siempre que sea técnicamente factible y seguro. El objetivo es oncológico (extirpar el tumor) pero también funcional (preservar la mayor cantidad de parénquima renal sano). Se asocia a menor riesgo de enfermedad renal crónica, eventos cardiovasculares y mortalidad a largo plazo. Hoy se realiza preferentemente por vía mínimamente invasiva (laparoscópica o robótica).
 
-		* Nefrectomía Radical: Extirpación completa del riñón, grasa perirrenal y fascia de Gerota. Se reserva para tumores grandes (T2) o aquellos T1b o T3a donde la cirugía parcial no es posible (ej. por localización central, cerca del hilio) sin comprometer el margen oncológico.
+	* Nefrectomía Radical: Extirpación completa del riñón, grasa perirrenal y fascia de Gerota. Se reserva para tumores grandes (T2) o aquellos T1b o T3a donde la cirugía parcial no es posible (ej. por localización central, cerca del hilio) sin comprometer el margen oncológico.
 
-	* Manejo No Quirúrgico (Para T1a en pacientes seleccionados):
+* Manejo No Quirúrgico (Para T1a en pacientes seleccionados):
 
-		* Vigilancia Activa (VA): Para masas pequeñas (< 3 cm) de crecimiento lento, en pacientes de edad avanzada o con altas comorbilidades que aumentan el riesgo quirúrgico. Requiere seguimiento imagenológico estricto (ej. cada 6 meses). Se interviene si hay crecimiento rápido (>0.5 cm/año) o aparición de síntomas.
+	* Vigilancia Activa (VA): Para masas pequeñas (< 3 cm) de crecimiento lento, en pacientes de edad avanzada o con altas comorbilidades que aumentan el riesgo quirúrgico. Requiere seguimiento imagenológico estricto (ej. cada 6 meses). Se interviene si hay crecimiento rápido (>0.5 cm/año) o aparición de síntomas.
 
-		* Terapias Ablativas (Crioablación, Radiofrecuencia): Opciones mínimamente invasivas (percutáneas) para pacientes T1a que no son buenos candidatos a cirugía. Destruyen el tumor por congelamiento o calor.
+	* Terapias Ablativas (Crioablación, Radiofrecuencia): Opciones mínimamente invasivas (percutáneas) para pacientes T1a que no son buenos candidatos a cirugía. Destruyen el tumor por congelamiento o calor.
 
-	* Tratamiento Adyuvante (Post-Cirugía):
+* Tratamiento Adyuvante (Post-Cirugía):
 
-	* Tras la cirugía, los pacientes con alto riesgo de recurrencia (ej. T3 Grado 4, T4, o N1) tienen una alta tasa de recaída. Basado en el estudio KEYNOTE-564, se aprobó el uso de Pembrolizumab (Inmunoterapia) adyuvante por 1 año, lo que ha demostrado reducir el riesgo de recurrencia.
+* Tras la cirugía, los pacientes con alto riesgo de recurrencia (ej. T3 Grado 4, T4, o N1) tienen una alta tasa de recaída. Basado en el estudio KEYNOTE-564, se aprobó el uso de Pembrolizumab (Inmunoterapia) adyuvante por 1 año, lo que ha demostrado reducir el riesgo de recurrencia.
 
 2. Enfermedad Avanzada o Metastásica (Etapa IV):
 
 El CCR es quimio-resistente y radio-resistente (en general). El tratamiento se basa en Terapias Dirigidas (anti-angiogénicos) e Inmunoterapia (Inhibidores de Checkpoint).
 
-	* Clasificación de Riesgo (IMDC): Favorable, Intermedio o Pobre.
+* Clasificación de Riesgo (IMDC): Favorable, Intermedio o Pobre.
 
-	* Primera Línea (Riesgo Intermedio/Pobre): Las combinaciones de Inmunoterapia (IO) son el estándar de oro, habiendo demostrado superioridad sobre la monoterapia con TKI.
+* Primera Línea (Riesgo Intermedio/Pobre): Las combinaciones de Inmunoterapia (IO) son el estándar de oro, habiendo demostrado superioridad sobre la monoterapia con TKI.
 
-		* IO + IO: Nivolumab (anti-PD-1) + Ipilimumab (anti-CTLA-4) (Estudio CheckMate 214).
+	* IO + IO: Nivolumab (anti-PD-1) + Ipilimumab (anti-CTLA-4) (Estudio CheckMate 214).
 
-		* IO + TKI (Inhibidor Tirosina Kinasa anti-VEGF):
+	* IO + TKI (Inhibidor Tirosina Kinasa anti-VEGF):
 
-			* Pembrolizumab (anti-PD-1) + Axitinib (TKI) (Estudio KEYNOTE-426).
+		* Pembrolizumab (anti-PD-1) + Axitinib (TKI) (Estudio KEYNOTE-426).
 
-			* Pembrolizumab (anti-PD-1) + Lenvatinib (TKI).
+		* Pembrolizumab (anti-PD-1) + Lenvatinib (TKI).
 
-			* Nivolumab (anti-PD-1) + Cabozantinib (TKI).
+		* Nivolumab (anti-PD-1) + Cabozantinib (TKI).
 
-	* Primera Línea (Riesgo Favorable):
+* Primera Línea (Riesgo Favorable):
 
-		* IO + TKI: Pembrolizumab + Axitinib; Pembrolizumab + Lenvatinib.
+	* IO + TKI: Pembrolizumab + Axitinib; Pembrolizumab + Lenvatinib.
 
-		* TKI en monoterapia como Pazopanib o Sunitinib fueron el estándar antiguo, pero las combinaciones IO+TKI han demostrado mayor eficacia y tasas de respuesta.
+	* TKI en monoterapia como Pazopanib o Sunitinib fueron el estándar antiguo, pero las combinaciones IO+TKI han demostrado mayor eficacia y tasas de respuesta.
 
-	* Segunda Línea y Posteriores: Depende de la primera línea usada. Se utilizan TKI que no se hayan usado (Cabozantinib, Lenvatinib) o inhibidores de mTOR (Everolimus).
+* Segunda Línea y Posteriores: Depende de la primera línea usada. Se utilizan TKI que no se hayan usado (Cabozantinib, Lenvatinib) o inhibidores de mTOR (Everolimus).
 
-	* Citorreducción: La nefrectomía citorreductora (extirpar el tumor primario en contexto metastásico) era el estándar. Sin embargo, el estudio CARMENA demostró que en la era de las terapias dirigidas, la citorreducción de rutina no es necesaria si se inicia terapia sistémica. Hoy se reserva para pacientes seleccionados (buen estado general, oligometastásicos, o para controlar síntomas locales como sangrado).
+* Citorreducción: La nefrectomía citorreductora (extirpar el tumor primario en contexto metastásico) era el estándar. Sin embargo, el estudio CARMENA demostró que en la era de las terapias dirigidas, la citorreducción de rutina no es necesaria si se inicia terapia sistémica. Hoy se reserva para pacientes seleccionados (buen estado general, oligometastásicos, o para controlar síntomas locales como sangrado).
