@@ -53,7 +53,7 @@ La presentación clínica clásica del MM se debe al daño de órgano blanco, re
 
 El diagnóstico de Mieloma Múltiple Activo (que requiere tratamiento) se basa en el racional de tratar la enfermedad cuando ya hay daño, o cuando el riesgo de daño es inminente. Se requiere:
 
-1. >10% de células plasmáticas clonales en médula ósea (o un Plasmocitoma probado por biopsia).
+1. La presencia de un >10% de células plasmáticas clonales en médula ósea (o un Plasmocitoma probado por biopsia).
 
 2. Y al menos uno de los siguientes:
 
@@ -139,30 +139,30 @@ El tratamiento del MM ha sido revolucionado por nuevas drogas (Inhibidores de Pr
 
 Se basa en combinaciones de fármacos con distintos mecanismos:
 
-	* Inhibidores de Proteasoma (IP): (Ej. Bortezomib). Las células de mieloma producen exceso de proteínas, bloqueando su sistema de "reciclaje" (proteasoma) se induce apoptosis.
+* Inhibidores de Proteasoma (IP): (Ej. Bortezomib). Las células de mieloma producen exceso de proteínas, bloqueando su sistema de "reciclaje" (proteasoma) se induce apoptosis.
 
-	* Inmunomoduladores (IMiD): (Ej. Lenalidomida). Mecanismo complejo que incluye activación de células T/NK contra el mieloma.
+* Inmunomoduladores (IMiD): (Ej. Lenalidomida). Mecanismo complejo que incluye activación de células T/NK contra el mieloma.
 
-	* Anticuerpos Monoclonales: (Ej. Daratumumab). Se une al antígeno CD38 (muy expresado en células de mieloma) y las marca para su destrucción.
+* Anticuerpos Monoclonales: (Ej. Daratumumab). Se une al antígeno CD38 (muy expresado en células de mieloma) y las marca para su destrucción.
 
-	* Corticoides: (Dexametasona). Es la base de casi todos los esquemas, por su efecto lítico directo sobre el mieloma.
+* Corticoides: (Dexametasona). Es la base de casi todos los esquemas, por su efecto lítico directo sobre el mieloma.
 
-	* Pacientes Candidatos a Trasplante (ASCT):
+* Pacientes Candidatos a Trasplante (ASCT):
 
-		1. Inducción (4-6 ciclos): Terapias de combinación (tripleta o cuadrupleta).
+	1. Inducción (4-6 ciclos): Terapias de combinación (tripleta o cuadrupleta).
 
-			* Estándar de Oro (preferido): Dara-VRd (Daratumumab [Anti-CD38], Bortezomib [IP], Lenalidomida [IMiD], Dexametasona).
+		* Estándar de Oro (preferido): Dara-VRd (Daratumumab [Anti-CD38], Bortezomib [IP], Lenalidomida [IMiD], Dexametasona).
 
-			* Alternativa: VRd (Bortezomib, Lenalidomida, Dexametasona).
+		* Alternativa: VRd (Bortezomib, Lenalidomida, Dexametasona).
 
-		2. Consolidación: Melfalán a altas dosis + ASCT. El Melfalán es quimioterapia mieloablativa. El ASCT no es curativo, pero rescata la médula ósea y permite usar esta quimioterapia intensa, logrando respuestas profundas y duraderas (mayor Sobrevida Libre de Progresión).
+	2. Consolidación: Melfalán a altas dosis + ASCT. El Melfalán es quimioterapia mieloablativa. El ASCT no es curativo, pero rescata la médula ósea y permite usar esta quimioterapia intensa, logrando respuestas profundas y duraderas (mayor Sobrevida Libre de Progresión).
 
-		3. Mantenimiento: Lenalidomida (a veces con Daratumumab) post-trasplante, usualmente hasta la progresión de la enfermedad.
+	3. Mantenimiento: Lenalidomida (a veces con Daratumumab) post-trasplante, usualmente hasta la progresión de la enfermedad.
 
-	* Pacientes No Candidatos a Trasplante (ASCT):
+* Pacientes No Candidatos a Trasplante (ASCT):
 
-		* El objetivo es el control a largo plazo con buena calidad de vida. Se usan terapias continuas (no una inducción corta).
+	* El objetivo es el control a largo plazo con buena calidad de vida. Se usan terapias continuas (no una inducción corta).
 
-		* Estándar de Oro (preferido): Dara-Rd (Daratumumab, Lenalidomida, Dexametasona).
+	* Estándar de Oro (preferido): Dara-Rd (Daratumumab, Lenalidomida, Dexametasona).
 
-		* Alternativa: VRd-lite (Bortezomib, Lenalidomida, Dexametasona en dosis ajustadas).
+	* Alternativa: VRd-lite (Bortezomib, Lenalidomida, Dexametasona en dosis ajustadas).
