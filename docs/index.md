@@ -12,8 +12,12 @@ Por ahora, nos centraremos en patologías APS, específicamente en realizar una 
 
 * Enfermedades Crónicas: INCOMPLETO
 
-* Oncología: INCOMPLETO→ Faltan algunas Imágenes
-
+* Oncología: "COMPLETO":
+	
+	* Faltan algunas Imágenes
+	
+	* Fran, Revisa lo que hicimos estamos cagadas de sueño y no confío. Atte. Ari <3
+	
 * Enfermedades del Corazón y Cerebro: COMPLETO
 
 * Accidentes Graves: COMPLETO
@@ -34,4 +38,5 @@ Por ahora, nos centraremos en patologías APS, específicamente en realizar una 
 
 * Pediatría: INCOMPLETO
 
+* Tratamientos Preventivos: COMPLETO?
 * Tratamientos Preventivos: COMPLETO?
