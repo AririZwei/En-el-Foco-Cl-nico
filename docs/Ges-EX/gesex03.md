@@ -118,3 +118,5 @@ El manejo se centra en repletar las reservas y tratar la causa subyacente.
 	* Transfusión de Glóbulos Rojos:
 
 		* Reservada solo para inestabilidad hemodinámica o insuficiencia cardíaca congestiva. Debe administrarse lentamente y con precaución (posiblemente con diurético) para evitar la sobrecarga de volumen en un corazón crónicamente adaptado a la anemia.
+		
+![B12](../imagenes/gesex02/B12.png)

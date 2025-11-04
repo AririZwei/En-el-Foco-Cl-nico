@@ -5,7 +5,7 @@ La Anemia Ferropénica (AF) es la manifestación final de la deficiencia de hier
 
 Se debe distinguir 2 tipos de ferropenia:
 
-1. Ferropenia AbsolutA (Déficit Total)→ Es la causa más común en pediatría:
+1. Ferropenia Absoluta (Déficit Total)→ Es la causa más común en pediatría:
 
 	* Definición: **Agotamiento total de los depósitos corporales de hierro..**
 	
