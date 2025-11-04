@@ -1,5 +1,5 @@
-#GES N°18.1: VIH/SIDA en personas de 15 años y más.
-##Generalidades y Definición
+#GES N°18: VIH/SIDA en personas de 15 años y más.
+##Generalidades y Definición  
 
 La infección por el Virus de la Inmunodeficiencia Humana (VIH) es una condición crónica y progresiva causada por un retrovirus perteneciente a la familia Lentivirus. Este virus ataca y destruye selectivamente las células del sistema inmunitario que expresan la molécula CD4 en su superficie, siendo su blanco principal los linfocitos T CD4+ (o linfocitos T helper). Estos linfocitos son los "directores de orquesta" de la respuesta inmune, cruciales para coordinar la defensa contra una vasta gama de patógenos.
 
@@ -290,3 +290,242 @@ El objetivo es asegurar la eficacia virológica, la recuperación inmunológica,
 		* Salud Ósea: (DEXA scan en post-menopáusicas o >50 años con factores de riesgo).
 
 		* Neoplasias no-SIDA: (Screening de cáncer de pulmón, anal -con Papanicolau anal en HSH-, hígado).
+		
+#GES N°18: VIH/SIDA en menores de 15 años.
+##Generalidades y Definición
+
+La infección por VIH en pediatría es una condición crónica causada por el Virus de la Inmunodeficiencia Humana (VIH-1). A diferencia de la población adulta, donde la transmisión es predominantemente sexual, la infección pediátrica es adquirida en más del 95% de los casos por transmisión vertical (TV), también llamada transmisión madre-hijo (TMI).
+
+Esta transmisión puede ocurrir en tres momentos bien definidos, cada uno con un riesgo asociado que es directamente mitigado por las intervenciones de PTV (Prevención de la Transmisión Vertical):
+
+1. Intrauterina (Gestación): El virus atraviesa la barrera placentaria e infecta al feto. Esto representa aproximadamente el 20-30% de los casos de TV y ocurre principalmente en etapas tardías del embarazo.
+
+2. Intraparto (Parto): Es el momento de mayor riesgo, sumando el 60-70% de los casos. Ocurre por la exposición del neonato a sangre materna (microtransfusiones) y secreciones cervicovaginales infectadas durante su paso por el canal de parto.
+
+3. Post-parto (Lactancia): El virus está presente en la leche materna (tanto en las células como en el plasma de la leche). Representa un riesgo acumulativo y continuo de transmisión (aprox. 10-15% de los casos) mientras se mantenga la lactancia.
+
+El SIDA Pediátrico es la etapa avanzada de la infección, caracterizada por una inmunodeficiencia grave (definida por recuentos de CD4 específicos para la edad, que son mucho más bajos que en adultos) y/o la presencia de condiciones clínicas definitorias de SIDA.
+
+Sin tratamiento, la historia natural de la infección por VIH en lactantes es agresiva. La progresión a SIDA es mucho más rápida y fulminante que en adultos, debido a la inmadurez del sistema inmune del lactante, que es incapaz de contener la replicación viral inicial. Existe un alto riesgo de enfermedad grave (como la Neumonía por Pneumocystis) y muerte en los primeros dos años de vida. Por esta razón, el diagnóstico precoz (en las primeras semanas) y el inicio inmediato de la Terapia Antirretroviral (TARV) son cruciales y se consideran una urgencia pediátrica, no solo para salvar la vida, sino para prevenir un daño neurológico irreversible. Gracias a las estrategias modernas de PTV, esta es hoy una condición altamente prevenible (<1% de riesgo).
+
+##Fisiopatología
+
+El ciclo viral (adsorción, transcripción reversa, integración, etc.) es idéntico al del adulto. Sin embargo, la fisiopatología pediátrica difiere drásticamente en su impacto y velocidad:
+
+1. Infección Primaria Sistémica: La infección ocurre en un sistema inmunológico inmaduro. El neonato tiene un pool de linfocitos T "naive" (vírgenes) que son altamente susceptibles a la infección y replicación del VIH, y menos linfocitos T de memoria. Esto permite una replicación viral masiva e inicial sin control efectivo, llevando a una diseminación rápida por todos los tejidos.
+
+2. Carga Viral (CV): Como resultado de lo anterior, los lactantes infectados que no reciben tratamiento tienen cargas virales iniciales (set point viral) extremadamente altas, frecuentemente alcanzando millones de copias/mL. Estas viremias tan elevadas son órdenes de magnitud mayores que las vistas en la infección aguda del adulto y son el principal motor de la rápida progresión clínica.
+
+3. Depleción de CD4: La destrucción de linfocitos T CD4+ es mucho más acelerada. Críticamente, el virus infecta y daña el timo, el órgano clave para la producción y maduración de nuevos linfocitos T ("la fábrica" del sistema inmune). Esto no solo destruye la población celular existente, sino que incapacita al cuerpo para regenerar una respuesta inmune adecuada, llevando a un colapso inmunológico más rápido.
+
+4. Afectación del SNC: El VIH tiene un alto tropismo por el sistema nervioso central en desarrollo. La replicación viral en macrófagos y microglía cerebral es común y devastadora, llevando a un riesgo significativo de Encefalopatía por VIH. Esta es una complicación neurológica progresiva, un golpe devastador e irreversible al potencial neurológico del niño, que cursa con microcefalia adquirida (el perímetro craneano deja de crecer), retraso o pérdida de hitos del neurodesarrollo y déficits motores (ej. espasticidad). Es una de las principales razones por las que la TARV es una urgencia.
+
+5. Reservorios: Los reservorios virales latentes (células infectadas "dormidas" que la TARV no puede eliminar) se establecen muy tempranamente (en los primeros días de vida) y, en proporción al tamaño del niño, son más grandes que en los adultos. Esto refuerza la necesidad de un tratamiento de por vida y la importancia de la profilaxis neonatal inmediata para limitar el tamaño de este reservorio.
+
+##Factores de Riesgo
+
+El riesgo principal y casi exclusivo es nacer de una madre con VIH. El riesgo de transmisión vertical sin ninguna intervención es del 25-40%. Los factores que aumentan este riesgo son:
+
+**Factores Maternos (Los más importantes):**
+
+* Carga Viral (CV) materna elevada: Es el predictor más importante y determinante. Una CV elevada (>1.000 copias/mL) al momento del parto aumenta drásticamente el riesgo. El objetivo central de la PTV es lograr una CV indetectable (<50 copias) mediante TARV materna, lo cual reduce el riesgo de transmisión a menos del 1%.
+
+* Diagnóstico tardío durante el embarazo (en el 2do o 3er trimestre) o directamente en el parto, lo que no da tiempo para suprimir la CV materna.
+
+* Baja adherencia a la TARV materna (que lleva a CV detectable).
+
+* Enfermedad materna avanzada (CD4 bajos), que se correlaciona con mayor CV.
+
+* Infección aguda por VIH durante el embarazo o la lactancia: Este es un escenario de altísimo riesgo, ya que la madre cursa con una viremia masiva antes de desarrollar anticuerpos.
+
+* Co-infecciones maternas (ej. VHC, Sífilis, CMV, Herpes), que aumentan la inflamación y la replicación viral.
+
+**Factores Obstétricos:**
+
+* Rotura prematura de membranas (RPM) prolongada: Especialmente >4 horas, en una madre con CV detectable. Aumenta el tiempo de exposición del feto al virus en el canal de parto antes del nacimiento.
+
+* Parto vaginal (vs. cesárea electiva): Solo si la CV materna es detectable. La cesárea electiva (programada) previene el contacto del neonato con secreciones y sangre en el canal de parto y el trauma del paso.
+
+* Corioamnionitis (infección de las membranas), que aumenta la replicación viral local.
+
+* Procedimientos invasivos durante el embarazo (amniocentesis, monitoreo fetal invasivo).
+
+**Factores Post-parto:**
+
+* Lactancia materna: Es una vía de transmisión eficiente y continua; cada toma es una exposición al riesgo. Está contraindicada de forma absoluta en países con acceso a agua potable y fórmula láctea segura (como Chile).
+
+**Otras Vías de Transmisión (raras en pediatría, más comunes en adolescentes):**
+
+* Transfusiones de sangre no tamizadas (extremadamente raras en la actualidad por los protocolos de banco de sangre).
+
+* Abuso sexual: Siempre debe sospecharse en un niño mayor con VIH sin historia de transmisión vertical.
+
+* Uso de drogas intravenosas o inicio de actividad sexual sin protección (en adolescentes).
+
+##Manifestaciones Clínicas
+
+La gran mayoría de los recién nacidos infectados (por TV) son completamente asintomáticos al nacer. Los síntomas suelen desarrollarse rápidamente, en los primeros 6 meses de vida.
+
+* Progresores Rápidos (15-20%): Presentan una progresión fulminante. Desarrollan SIDA (usualmente con Neumonía por Pneumocystis jirovecii - PCP) entre los 3 y 6 meses de vida, y tienen una alta mortalidad antes de los 2-3 años si no reciben tratamiento.
+
+* Progresores Lentos (80%): Tienen una progresión más gradual, desarrollando síntomas en la edad preescolar o escolar, de forma más similar a la progresión en adultos.
+
+Manifestaciones Comunes en Lactantes/Preescolares: El VIH pediátrico es una enfermedad multisistémica. Los hallazgos más sugerentes ("banderas rojas") son:
+
+* Retraso del crecimiento (Fallo de Medro): Es uno de los signos más tempranos y comunes. Dificultad para ganar peso (retraso pondoestatural) y luego talla, a pesar de una ingesta calórica aparentemente adecuada.
+
+* Infecciones bacterianas recurrentes y graves: (Ej. dos o más neumonías en 1 año, meningitis, sepsis). Esto ocurre por una disfunción de los linfocitos B (encargados de los anticuerpos), la cual es secundaria a la falta de "ayuda" (coordinación) de los linfocitos T CD4 destruidos.
+
+* Linfadenopatía generalizada persistente.
+
+* Hepatoesplenomegalia.
+
+* Candidiasis oral ("muguet") persistente: Más allá de los 6 meses de vida, o que es muy extensa o recurre rápidamente tras el tratamiento.
+
+* Parotiditis crónica: Aumento de volumen bilateral y no doloroso de las glándulas parótidas, dándole al niño un aspecto característico.
+
+* Neumonía Intersticial Linfoide (NIL): Una infiltración linfoide difusa del pulmón, muy característica del VIH pediátrico (rara en adultos). Generalmente se ve en progresores lentos y es un signo de alguna respuesta inmune. Cursa con hipoxemia leve-moderada, tos crónica e imagen de "vidrio esmerilado".
+
+* Retraso del Neurodesarrollo: Es una bandera roja de máxima alerta. Es la manifestación clínica de la encefalopatía por VIH. Se presenta como pérdida de hitos del desarrollo (ej. deja de sostener la cabeza, no camina a la edad esperada), microcefalia adquirida, o espasticidad.
+
+* Otras: Dermatitis persistentes (ej. molusco contagioso diseminado), diarrea crónica, cardiomiopatía dilatada, nefropatía (HIVAN).
+
+##Diagnóstico
+
+El diagnóstico en menores de 18 meses NO se puede hacer con pruebas de anticuerpos (ELISA/Western Blot).
+
+* Razón (Falso Positivo): Los anticuerpos IgG maternos (que son los que detectan estas pruebas) atraviesan la placenta pasivamente. Por lo tanto, todo bebé hijo de madre VIH+ será seropositivo al nacer, esté o no infectado. Este resultado es esperado y no tiene valor diagnóstico para el bebé.
+
+* Diagnóstico en Menores de 18 meses (Gold Standard):
+
+	* Pruebas Virológicas (Detección directa del virus): Se utiliza PCR de ADN proviral (detecta el ADN del virus integrado en las células sanguíneas) o PCR de ARN viral (Carga Viral, detecta virus circulando en plasma). La PCR de ADN es a menudo preferida por su alta sensibilidad y especificidad.
+
+	* Algoritmo de PCR: Se realizan PCRs en sangre en momentos estandarizados (en todo "niño expuesto"):
+
+		1. Primer PCR: Entre los 14 y 21 días de vida. (No se toma al nacer por menor sensibilidad y posible contaminación con sangre materna). Una PCR a esta edad tiene alta sensibilidad para detectar la infección intrauterina.
+
+		2. Segundo PCR: Entre 1 y 2 meses de edad. (Detecta infecciones intrauterinas o intraparto).
+
+		3. Tercer PCR: Entre 4 y 6 meses de edad.
+
+	* Confirmación Diagnóstica: Se requieren dos PCR virológicos positivos en muestras de sangre distintas para confirmar la infección.
+
+	* Nota Importante: Un único PCR positivo se considera un "diagnóstico presuntivo" y es indicación de iniciar TARV de inmediato. No se espera la segunda muestra confirmatoria para empezar el tratamiento, dada la urgencia terapéutica. El riesgo de daño neurológico por no tratar supera con creces el bajo riesgo de un falso positivo.
+
+	* Descartar Infección: Se requieren dos PCR virológicos negativos (uno tomado después del mes de vida y otro después de los 4 meses), en un niño que no está lactando.
+
+	* Confirmación de Descarte: Se realiza una prueba de anticuerpos (ELISA) a los 18-24 meses. Si es negativa (el niño "serorrevierte", es decir, pierde los anticuerpos maternos y no produce propios), se confirma que el niño no está infectado y se da de alta del seguimiento.
+
+* Diagnóstico en Mayores de 18 meses:
+
+	* Se realiza igual que en adultos, con pruebas serológicas (ELISA/CLIA de 4ª generación) seguidas de confirmación (Western Blot / IFI), ya que los anticuerpos maternos han desaparecido.
+	
+##Clasificaciones
+
+Se utiliza la Clasificación Pediátrica del CDC (revisada), que es una matriz que combina categorías clínicas e inmunológicas. Las categorías inmunológicas son estrictamente ajustadas por edad, ya que los niños sanos tienen recuentos de CD4 mucho más altos que los adultos (un neonato sano puede tener 3000-4000 CD4).
+
+**Categorías Clínicas Pediátricas:**
+
+* Categoría N (No sintomático): Sin signos ni síntomas atribuibles a VIH.
+
+* Categoría A (Levemente sintomático): Presenta dos o más de: linfadenopatía, hepatoesplenomegalia, parotiditis, dermatitis.
+
+* Categoría B (Moderadamente sintomático): Condiciones que demuestran una disfunción inmune moderada.
+
+	* Ejemplos: Anemia, neutropenia o trombocitopenia persistentes.
+
+	* Infección bacteriana grave única (ej. sepsis, neumonía bacteriana).
+
+	* Candidiasis orofaríngea persistente (>2 meses) en >6 meses de edad.
+
+	* Diarrea crónica.
+
+	* Neumonía Intersticial Linfoide (NIL).
+
+* Categoría C (Gravemente sintomático): Presencia de cualquier condición definitoria de SIDA.
+
+	* Ejemplos: Neumonía por Pneumocystis jirovecii (PCP) (la más común y grave en lactantes; su presencia es casi patognomónica de VIH vertical), Candidiasis esofágica, Encefalopatía por VIH (progresiva), Wasting Syndrome (falla de medro severa), Infecciones bacterianas recurrentes (2 o más en 1 año), Sarcoma de Kaposi, Linfoma.
+
+**Categorías Inmunológicas Pediátricas (según % y recuento absoluto de CD4):**
+
+En niños < 5 años, el porcentaje de CD4 es un indicador más estable que el recuento absoluto (que fluctúa mucho con infecciones menores).
+
+* Cat. 1 (Sin supresión): >25%
+
+* Cat. 2 (Sup. Moderada): 15-24%
+
+* Cat. 3 (Sup. Grave): <15%
+
+La tabla de recuentos absolutos es la siguiente (ambos sistemas coexisten):
+
+![Categorias](../imagenes/ges18/Cat.png)
+
+##Tratamiento y Manejo
+
+1. Prevención de la Transmisión Vertical (PTV): Es la intervención de salud pública más importante en VIH pediátrico. Se basa en 4 pilares:
+
+	* TARV a la madre: Toda embarazada con VIH debe recibir TARV (inicio "Treat All"). El objetivo es lograr Carga Viral indetectable lo antes posible y mantenerla.
+
+	* Parto: Cesárea electiva a las 38 semanas si la CV materna es detectable (>1.000 copias) o desconocida cerca del parto. Parto vaginal si la CV es indetectable y sostenida.
+
+	* TARV al Recién Nacido (Profilaxis): Todos los recién nacidos expuestos (hijos de madre VIH+) reciben profilaxis antirretroviral. Esta profilaxis "cubre" cualquier exposición viral ocurrida durante el parto, previniendo que el virus establezca una infección y cree reservorios.
+
+		* Bajo riesgo (Madre Indetectable): Zidovudina (AZT) jarabe por 4 semanas.
+
+		* Alto riesgo (Madre sin TARV, CV detectable, o infección aguda): Terapia triple (AZT + Lamivudina (3TC) + Nevirapina o Raltegravir) por 4-6 semanas.
+
+	* Alimentación: Supresión absoluta de la lactancia materna y provisión de fórmula láctea gratuita por el programa.
+
+2. Manejo del Niño/Niña con VIH Confirmado (GES N°85):
+
+* Inicio de Terapia (Cuándo empezar):
+
+	* El tratamiento es una urgencia pediátrica y neurológica.
+
+	* Se debe iniciar TARV en todos los niños y niñas con diagnóstico confirmado de VIH, independientemente de su edad, recuento de CD4 o categoría clínica.
+
+	* El inicio debe ser inmediato (idealmente el mismo día del diagnóstico presuntivo) para suprimir la CV lo más rápido posible, preservar la función inmune y, críticamente, proteger el neurodesarrollo.
+
+* Manejo No Farmacológico:
+
+	* Apoyo Nutricional: Fundamental para combatir el fallo de medro. Requiere evaluación por nutricionista y suplementos calóricos si es necesario. El crecimiento es un signo vital clave.
+
+	* Adherencia: Es el mayor desafío. En lactantes y preescolares, depende 100% de los cuidadores. Requiere apoyo psicosocial intensivo, educación continua, y manejo de la revelación del diagnóstico (el proceso complejo de explicar al niño su condición cuando tiene la madurez para entenderlo, crucial para la adherencia en la adolescencia).
+
+	* Inmunizaciones: Cumplir con el calendario PNI. Las vacunas a virus vivos (Tresvírica, Varicela, Fiebre Amarilla) están contraindicadas si hay inmunosupresión grave (Categoría 3 o CD4 < 15%).
+
+* Manejo Farmacológico (TARV Pediátrica):
+
+	* Desafíos: La dosificación es compleja (basada en peso y superficie corporal, requiere ajustes frecuentes a medida que el niño crece). Se necesitan formulaciones líquidas o gránulos, y la palatabilidad (mal sabor) de muchos jarabes es una barrera mayor para la adherencia. El paso de jarabes a comprimidos es un hito importante en el tratamiento.
+
+	* Primera Línea (Esquemas Preferentes - Guías OMS/DHHS Pediátricas 2023-2024):
+
+		* Basados en Inhibidores de la Integrasa (INSTI) por su alta potencia, alta barrera a la resistencia y buena tolerabilidad.
+
+		* Esquema preferente: Dolutegravir (DTG) (disponible en formulaciones dispersables/masticables para lactantes) + 2 ITRAN (generalmente Abacavir (ABC) + Lamivudina (3TC)).
+
+		* Alternativa (especialmente en neonatos < 4 semanas): Raltegravir (RAL) (disponible en gránulos) + 2 ITRAN.
+
+* Profilaxis de Infecciones Oportunistas (IO):
+
+	* PCP (Pneumocystis jirovecii): El riesgo es altísimo en el primer año. Se debe iniciar profilaxis con Cotrimoxazol (Trimetoprim/Sulfametoxazol) a todos los lactantes expuestos al VIH (incluso antes de saber si están infectados) desde las 4-6 semanas de vida (coincidiendo con el nadir de anticuerpos maternos pasivos).
+
+	* Se mantiene hasta que se descarte la infección.
+
+	* Si se confirma la infección, se mantiene el Cotrimoxazol de forma continua durante todo el primer año de vida. Después del año, se re-evalúa según el recuento de CD4 (se suspende si CD4 > Cat 1 por > 3 meses).
+	
+##Seguimiento
+
+Es un manejo multidisciplinario intensivo (infectólogo pediatra, enfermería, nutricionista, psicólogo, asistente social).
+
+* Carga Viral (CV): Medir al inicio, 4-8 semanas post-inicio de TARV (buscando supresión rápida), y luego cada 3-4 meses hasta la supresión. Pacientes estables (indetectables > 1 año): cada 6 meses.
+
+* Recuento de CD4 (% y absoluto): Medir al inicio y cada 3-6 meses. Es vital para decidir la suspensión de profilaxis de IO.
+
+* Crecimiento: Monitorización estricta con curvas antropométricas (Peso/Edad, Talla/Edad, Peso/Talla, IMC/E) en cada control. Es un "signo vital" de la efectividad del tratamiento.
+
+* Neurodesarrollo: Evaluación seriada de los hitos del desarrollo psicomotor (TEPSI, etc.), especialmente en los primeros años. Es un objetivo terapéutico tan importante como la CV.
+
+* Adherencia: Evaluación constante y no punitiva del cuidador.
+
+* Transición: Planificación del traspaso desde la unidad pediátrica a la unidad de adultos. Es un proceso psicosocial y médico complejo que debe empezar en la adolescencia temprana para asegurar la continuidad de la atención y la adherencia.
