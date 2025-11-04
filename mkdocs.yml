@@ -58,18 +58,18 @@ nav:
             - 'GES N°7: Diabetes Mellitus tipo 2': Enfermedades Cronicas/ges07.md
             - 'GES N°18: VIH/SIDA': Enfermedades Cronicas/ges18.md
             - 'GES N°21: Hipertensión Arterial Primaria/Esencial en personas de 15 años y más': Enfermedades Cronicas/ges21.md 
-            - 'GES N°33: Hemofilia': Enfermedades Cronicas/ges33_Hemofilia.md 
-            - 'GES N°51: Fibrosis Quística': Enfermedades Cronicas/ges51_FQ.md
-            - 'GES N°52: Artritis Reumatoidea': Enfermedades Cronicas/ges52_AR.md
-            - 'GES N°60: Epilepsia en el adulto': Enfermedades Cronicas/ges60_Epilepsia.md
+            - 'GES N°33: Hemofilia': Enfermedades Cronicas/ges33.md 
+            - 'GES N°51: Fibrosis Quística': Enfermedades Cronicas/ges51.md
+            - 'GES N°52: Artritis Reumatoidea': Enfermedades Cronicas/ges52.md
+            - 'GES N°60: Epilepsia en el adulto': Enfermedades Cronicas/ges60.md
             - 'GES N°62: Enfermedad de Parkinson': Enfermedades Cronicas/ges62.md
-            - 'GES N°63: Artritis Idiopática Juvenil/Artritis Reumatoidea Juvenil': Enfermedades Cronicas/ges63_ARJ.md 
-            - 'GES N°67: Esclerosis Múltiple': Enfermedades Cronicas/ges67_EM.md
-            - 'GES N°68: Virus Hepatitis B (VHB)': Enfermedades Cronicas/ges68_VHB.md
-            - 'GES N°69: Virus Hepatitis C (VHC)': Enfermedades Cronicas/ges69_VHC.md
-            - 'GES N°76: Hipotiroidismo en personas de 15 años y más': Enfermedades Cronicas/ges76_HipoT4.md
-            - 'GES N°78: Lupus Eritematoso Sistémico (LES)': Enfermedades Cronicas/ges78_LES.md
-            - 'GES N°87: Sars-Cov-2': Enfermedades Cronicas/ges87_COVID.md
+            - 'GES N°63: Artritis Idiopática Juvenil/Artritis Reumatoidea Juvenil': Enfermedades Cronicas/ges63.md 
+            - 'GES N°67: Esclerosis Múltiple': Enfermedades Cronicas/ges67.md
+            - 'GES N°68: Virus Hepatitis B (VHB)': Enfermedades Cronicas/ges68.md
+            - 'GES N°69: Virus Hepatitis C (VHC)': Enfermedades Cronicas/ges69.md
+            - 'GES N°76: Hipotiroidismo en personas de 15 años y más': Enfermedades Cronicas/ges76.md
+            - 'GES N°78: Lupus Eritematoso Sistémico (LES)': Enfermedades Cronicas/ges78.md
+            - 'GES N°87: Sars-Cov-2': Enfermedades Cronicas/ges87.md
         - Oncología:
             - 'GES N°3: Cáncer Cervico Uterino': Oncologia/ges03.md
             - 'GES N°4: Cuidados Paliativos': Oncologia/ges04.md
@@ -160,6 +160,8 @@ nav:
             - 'GES-EX N°4: Anemia normo/normo en Pediatría': Ges-EX/gesex04.md
             - 'GES-EX N°5: Cetoacidosis Diabética': Ges-EX/gesex05.md
             - 'GES-EX N°6: Síndrome Hiperosmolar Hiperglicémico': Ges-EX/gesex06.md
+    - EUNACOM (Proximamente):
+            - 'Proximamente': 
 # --- Plugins ---
 # Lista de plugins a utilizar y su configuración
 plugins:
