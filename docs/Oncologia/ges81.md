@@ -7,11 +7,11 @@ Esta patología es heterogénea y se clasifica histológicamente en dos grandes 
 
 1. Cáncer Pulmonar de Células No Pequeñas (CPCNP) o Cáncer No Microcítico: Constituye el subtipo más común, representando aproximadamente el 85% de todos los casos. Es un grupo diverso que incluye:
 
-		* Adenocarcinoma: Es el subtipo más frecuente en la actualidad, incluso en personas que nunca han fumado. Tiende a originarse en las zonas periféricas del pulmón y se clasifica a su vez en subtipos (ej. in situ, mínimamente invasivo, invasivo no mucinoso, invasivo mucinoso), siendo crucial su caracterización molecular.
+	* Adenocarcinoma: Es el subtipo más frecuente en la actualidad, incluso en personas que nunca han fumado. Tiende a originarse en las zonas periféricas del pulmón y se clasifica a su vez en subtipos (ej. in situ, mínimamente invasivo, invasivo no mucinoso, invasivo mucinoso), siendo crucial su caracterización molecular.
 
-		* Carcinoma Escamoso (o Espinocelular): Históricamente ligado de forma muy estrecha al tabaquismo intenso. Suele originarse en las vías aéreas centrales (bronquios mayores) y puede presentar cavitación (necrosis central) visible en las imágenes.
+	* Carcinoma Escamoso (o Espinocelular): Históricamente ligado de forma muy estrecha al tabaquismo intenso. Suele originarse en las vías aéreas centrales (bronquios mayores) y puede presentar cavitación (necrosis central) visible en las imágenes.
 
-		* Carcinoma de Células Grandes: Un diagnóstico menos común, indiferenciado, que carece de las características cito-arquitecturales de los otros tipos. Incluye variantes agresivas como el carcinoma neuroendocrino de células grandes (LCNEC).
+	* Carcinoma de Células Grandes: Un diagnóstico menos común, indiferenciado, que carece de las características cito-arquitecturales de los otros tipos. Incluye variantes agresivas como el carcinoma neuroendocrino de células grandes (LCNEC).
 
 2. Cáncer Pulmonar de Células Pequeñas (CPCP) o Cáncer Microcítico: Corresponde al 15% restante. Es una enfermedad distintiva, considerada una patología neuroendocrina de alto grado. Se asocia de manera casi exclusiva al tabaquismo ( >95% de los casos), presenta un tiempo de duplicación celular extremadamente rápido, alta fracción de crecimiento y una propensión a la diseminación metastásica temprana.
 

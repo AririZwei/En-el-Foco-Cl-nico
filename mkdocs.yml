@@ -156,6 +156,8 @@ nav:
         - Tratamientos Preventivos:
             - 'GES N°64: Prevención Secundaria de la ERCT': Tratamientos Preventivos/ges64.md
             - 'GES N°80: Helicobacter Pylori': Tratamientos Preventivos/ges80.md
+        - GES-EX:
+            - 'GES-EX N°1: Anemia Ferropénica en Pediatría': Ges-EX/gesex01.md
 # --- Plugins ---
 # Lista de plugins a utilizar y su configuración
 plugins:
