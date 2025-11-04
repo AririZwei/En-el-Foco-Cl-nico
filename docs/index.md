@@ -37,4 +37,3 @@ Por ahora, nos centraremos en patologías APS, específicamente en realizar una 
 * Pediatría: INCOMPLETO
 
 * Tratamientos Preventivos: COMPLETO?
-* Tratamientos Preventivos: COMPLETO?
