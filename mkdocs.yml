@@ -11,7 +11,7 @@ theme:
     name: material
     
     # --- Logo y Favicon ---
-    logo: assets/logo.png
+    logo: assets/logo2.png
     favicon: assets/logo.png
 
     # --- Esquema de Color (Scheme) y Paleta (Palette) ---
@@ -56,8 +56,7 @@ nav:
             - 'GES N°1: Insuficiencia Renal': Enfermedades Cronicas/ges01_irct.md
             - 'GES N°6: Diabetes Mellitus tipo 1': Enfermedades Cronicas/ges06.md
             - 'GES N°7: Diabetes Mellitus tipo 2': Enfermedades Cronicas/ges07.md
-            - 'GES N°18.1: VIH/SIDA: Adulto': Enfermedades Cronicas/ges181.md
-            - 'GES N°18.2: VIH/SIDA: Pediátrico': Enfermedades Cronicas/ges182.md
+            - 'GES N°18: VIH/SIDA': Enfermedades Cronicas/ges18.md
             - 'GES N°21: Hipertensión Arterial Primaria/Esencial en personas de 15 años y más': Enfermedades Cronicas/ges21.md 
             - 'GES N°33: Hemofilia': Enfermedades Cronicas/ges33_Hemofilia.md 
             - 'GES N°51: Fibrosis Quística': Enfermedades Cronicas/ges51_FQ.md
