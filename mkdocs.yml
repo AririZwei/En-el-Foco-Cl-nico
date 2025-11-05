@@ -47,8 +47,11 @@ extra:
     social:
         - icon: fontawesome/solid/book-medical
           link: https://aririzwei.github.io/En-el-Foco-Cl-nico/   
-# --- Navegación (nav) ---
-# Estructura del menú lateral y las pestañas
+extra:
+  manifest: manifest.webmanifest # <-- Enlaza el archivo que creaste
+
+extra_css:
+  - assets/extra.css # (Si tienes este archivo, déjalo)
 nav:
     - Inicio: index.md
     - Resúmenes GES:
