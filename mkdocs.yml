@@ -1,5 +1,6 @@
 # --- Configuración General del Sitio ---
-site_url: https://aririzwei.github.io/En-el-Foco-Cl-nico/ 
+# ¡Corregido! Quité un espacio en blanco al final de la URL
+site_url: https://aririzwei.github.io/En-el-Foco-Cl-nico/
 
 site_name: En el Foco Clínico
 site_description: Compendio de patologías GES para consulta rápida.
@@ -15,43 +16,59 @@ theme:
     favicon: assets/logo.png
 
     # --- Esquema de Color (Scheme) y Paleta (Palette) ---
-    # Habilita el selector de modo claro / oscuro
     palette:
       
       # Opciones para el Modo Claro (default)
       - scheme: default
-        primary: indigo      # Color principal (ej. cabecera) en modo claro
-        accent: orange       # Color de acento (ej. enlaces) en modo claro
+        primary: indigo
+        accent: orange
         toggle:
           icon: material/weather-night
           name: Cambiar a modo oscuro
 
       # Opciones para el Modo Oscuro (slate)
       - scheme: slate
-        primary: deep purple # Color principal en modo oscuro
-        accent: cyan         # Color de acento en modo oscuro
+        primary: deep purple
+        accent: cyan
         toggle:
           icon: material/weather-sunny
           name: Cambiar a modo claro
 
     # --- Características (Features) ---
-    # Habilita funcionalidades extra del tema "Material"
     features:
-        - navigation.top      # Añade un botón para "volver arriba"
-        - search.suggest      # Muestra sugerencias de autocompletar al buscar
-        - search.highlight    # Resalta los términos de búsqueda en los resultados
-        - content.code.copy   # Añade un botón para copiar bloques de código
-        - navigation.footer   # Añade botones Siguiente/Anterior al final de la página
+        - navigation.top
+        - search.suggest
+        - search.highlight
+        - content.code.copy
+        - navigation.footer
         - content.social.links
-extra: 
-    social:
-        - icon: fontawesome/solid/book-medical
-          link: https://aririzwei.github.io/En-el-Foco-Cl-nico/   
-extra:
-  manifest: manifest.webmanifest # <-- Enlaza el archivo que creaste
+        - pwa.offline         # <-- ¡¡ERROR 2 CORREGIDO!! Faltaba esta línea para la PWA
 
+# --- Navegación (nav) ---
+# (Tu sección 'nav:' completa va aquí)
+# nav:
+#  - Inicio: index.md
+#  - ...
+
+# --- Plugins ---
+# (Tu sección 'plugins:' completa va aquí)
+# plugins:
+#   - search:
+#       lang: es
+#   - ...
+
+# --- Extras (Social Cards, Manifest PWA) ---
+# ¡¡ERROR 1 CORREGIDO!! Solo UNA sección "extra:"
+extra: 
+  social:
+    - icon: fontawesome/solid/book-medical
+      link: https://aririzwei.github.io/En-el-Foco-Cl-nico/ # Quité el espacio final
+  manifest: manifest.webmanifest # <-- 'manifest' va DENTRO del mismo 'extra:'
+
+# --- CSS Personalizado ---
+# ¡¡ERROR 3 CORREGIDO!! Movido al nivel principal (sin indentación)
 extra_css:
-  - assets/extra.css # (Si tienes este archivo, déjalo)
+  - assets/extra.css
 nav:
     - Inicio: index.md
     - Resúmenes GES:
