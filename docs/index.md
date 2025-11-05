@@ -10,17 +10,15 @@ Por ahora, nos centraremos en patologías APS, específicamente en realizar una 
 
 ##Estado del Proyecto→ 20/86
 
-* Enfermedades Crónicas: INCOMPLETO
+* Enfermedades Crónicas: COMPLETO
 
-* Oncología: "COMPLETO":
-	
-	* Faltan algunas Imágenes
+* Oncología: COMPLETO
 	
 * Enfermedades del Corazón y Cerebro: COMPLETO
 
 * Accidentes Graves: COMPLETO
 
-* Enfermedades Respiratorios: INCOMPLETO
+* Enfermedades Respiratorias: INCOMPLETO
 
 * Enfermedades de la Visión: INCOMPLETO
 
@@ -36,4 +34,4 @@ Por ahora, nos centraremos en patologías APS, específicamente en realizar una 
 
 * Pediatría: INCOMPLETO
 
-* Tratamientos Preventivos: COMPLETO?
+* Tratamientos Preventivos: COMPLETO
