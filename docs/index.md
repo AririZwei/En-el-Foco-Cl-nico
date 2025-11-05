@@ -7,5 +7,3 @@ Compendio de actualización GES 2025
 La idea es crear una herramienta educativa donde poder recurrir frente al
 deseo de adquirir/actualizar el conocimiento respecto a diversas patologías. 
 Por ahora, nos centraremos en patologías APS, específicamente en realizar una actualización y resumen de las guías GES.
-
-**Resúmenes ingresados:** {{ get_page_count(nav.items) }} / 87
