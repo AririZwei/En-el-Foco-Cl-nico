@@ -1,6 +1,6 @@
 {
   "name": "En el Foco Clínico",
-  "short_name": "Foco",
+  "short_name": "Guía GES",
   "description": "Compendio de patologías GES para consulta rápida.",
   "start_url": ".",
   "display": "standalone",

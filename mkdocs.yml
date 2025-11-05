@@ -62,7 +62,9 @@ theme:
 extra: 
   social:
     - icon: fontawesome/solid/book-medical
-      link: https://aririzwei.github.io/En-el-Foco-Cl-nico/ # Quité el espacio final
+    
+      link: https://aririzwei.github.io/En-el-Foco-Cl-nico/
+      
   manifest: manifest.webmanifest # <-- 'manifest' va DENTRO del mismo 'extra:'
 
 # --- CSS Personalizado ---
