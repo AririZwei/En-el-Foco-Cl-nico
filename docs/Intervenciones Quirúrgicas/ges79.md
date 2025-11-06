@@ -147,13 +147,13 @@ Se utiliza la clasificación de severidad hemodinámica (Leve, Moderada, Severa)
 
 * Estadio C: Severa Asintomática con Repercusión Hemodinámica. (Indicación de intervención).
 
-	* IM-C1/C2: IM Primaria Severa Asintomática + Disfunción del VI (FEVI $\leq$ 60% o DTSVI $\geq$ 40mm) o Repercusión auricular/pulmonar (AFib de novo o HTP > 50 mmHg). (Nota: FEVI $\leq$ 60% ya es disfunción en este contexto).
+	* IM-C1/C2: IM Primaria Severa Asintomática + Disfunción del VI (FEVI ≤60% o DTSVI  ≥40mm) o Repercusión auricular/pulmonar (AFib de novo o HTP > 50 mmHg). (Nota: FEVI ≤60% ya es disfunción en este contexto).
 
 	* EM-C: EM Severa Asintomática + HTP (PAPs > 50 mmHg en reposo).
 
 * Estadio D: Severa Sintomática. (Indicación de intervención).
 
-**Clasificación de Wilkins (para EM):** Score ecocardiográfico (4-16) que evalúa 4 parámetros (Movilidad, Engrosamiento, Calcificación y Aparato Subvalvular). Un score bajo ($\leq$ 8-10) predice un buen resultado de la Valvuloplastía con Balón (PMBV).
+**Clasificación de Wilkins (para EM):** Score ecocardiográfico (4-16) que evalúa 4 parámetros (Movilidad, Engrosamiento, Calcificación y Aparato Subvalvular). Un score bajo (≤8-10) predice un buen resultado de la Valvuloplastía con Balón (PMBV).
 
 **Clasificación de Carpentier (para IM Primaria):** Clasifica el mecanismo del prolapso para guiar la reparación quirúrgica (Tipo I: Normal, Tipo II: Excesivo -prolapso/flail-, Tipo IIIa: Restrictivo diástole/sístole -reumático-, IIIb: Restrictivo sístole -funcional/isquémico-).
 
@@ -171,7 +171,7 @@ Se utiliza la clasificación de severidad hemodinámica (Leve, Moderada, Severa)
 
 	* Manejo Intervencional (Tratamiento Definitivo para EM Severa, Estadio C o D):
 
-		* Valvuloplastía Mitral Percutánea con Balón (PMBV): (Cateterismo). Es el tratamiento de elección si la anatomía es favorable (Score Wilkins $\leq$ 8-10, sin IM severa, sin trombo en AI). Un balón inflado rompe las comisuras fusionadas, siendo curativo por muchos años.
+		* Valvuloplastía Mitral Percutánea con Balón (PMBV): (Cateterismo). Es el tratamiento de elección si la anatomía es favorable (Score Wilkins  ≤8-10, sin IM severa, sin trombo en AI). Un balón inflado rompe las comisuras fusionadas, siendo curativo por muchos años.
 
 		* Cirugía (Reemplazo Valvular Mitral - RVM): Si la PMBV no es posible (válvula muy calcificada, Wilkins alto, IM severa concomitante) o si falla. Se prefiere prótesis mecánica en jóvenes (ya que la AFib concomitante a menudo obliga a anticoagular de por vida de todas formas).
 

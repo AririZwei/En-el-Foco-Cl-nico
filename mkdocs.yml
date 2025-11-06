@@ -180,6 +180,11 @@ nav:
             - 'GES-EX N°2: Talasemias en Pediatría': Ges-EX/gesex02.md
             - 'GES-EX N°3: Anemia Megaloblástica en Pediatría': Ges-EX/gesex03.md
             - 'GES-EX N°4: Anemia normo/normo en Pediatría': Ges-EX/gesex04.md
+    
+    - EUNACOM:
+        
+        - Infectología
+            - 'Sepsis y Shock Séptico':    
 # --- Plugins ---
 # Lista de plugins a utilizar y su configuración
 plugins:

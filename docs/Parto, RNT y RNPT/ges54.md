@@ -17,7 +17,7 @@ El dolor del parto es un proceso neurofisiológico complejo que evoluciona en do
 
 	* Origen: Contracción del miometrio (causando hipoxia/isquemia muscular transitoria) y dilatación del cérvix y el segmento uterino inferior.
 
-	* Vías Neuronales: Fibras C y A-$\delta$ aferentes que viajan por los plexos pélvicos y el nervio hipogástrico hasta la médula espinal, ingresando en los dermatomas T10 a L1.
+	* Vías Neuronales: Fibras C y A-Δ aferentes que viajan por los plexos pélvicos y el nervio hipogástrico hasta la médula espinal, ingresando en los dermatomas T10 a L1.
 
 2. Segunda Etapa (Período Expulsivo):
 
@@ -51,7 +51,7 @@ La "clínica" es la experiencia subjetiva del dolor referida por la paciente. El
 
 * Contraindicaciones de Analgesia Neuraxial (Epidural/Espinal):
 
-	* Absolutas: Rechazo de la paciente, infección en el sitio de punción, coagulopatía severa (Plaquetas < 80.000 - 100.000 / $\mu$L), hipertensión intracraneana.
+	* Absolutas: Rechazo de la paciente, infección en el sitio de punción, coagulopatía severa (Plaquetas < 80.000 - 100.000 /mL), hipertensión intracraneana.
 
 	* Relativas: Sepsis, hipovolemia no corregida, cirugía de columna extensa, tatuaje en el sitio de punción (controversial, generalmente se punciona al lado).
 

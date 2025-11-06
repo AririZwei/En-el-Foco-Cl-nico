@@ -69,7 +69,8 @@ La DBP es un diagnóstico que se hace retrospectivamente. El paciente es un prem
 
 **Definición NICHD 2001:** Se aplica a prematuros < 32 semanas al nacer.
 
-1. Criterio 1: Requerimiento de O2 suplementario (FiO2 > 0.21) por $\geq$ 28 días.
+1. Criterio 1: Requerimiento de O2 suplementario (FiO2 > 0.21) por ≥28 días.
+1. Criterio 1: Requerimiento de O2 suplementario (FiO2 > 0.21) por ≥28 días.
 
 2. Criterio 2 (Evaluación de Severidad): Se realiza a las 36 semanas de EPM (o al alta/traslado). Para estandarizar esta evaluación, a menudo se realiza un "Test de Oximetría", donde se intenta bajar la FiO2 a 0.21 y se observa si el paciente mantiene una saturación aceptable (ej. >90%) por un período determinado.
 

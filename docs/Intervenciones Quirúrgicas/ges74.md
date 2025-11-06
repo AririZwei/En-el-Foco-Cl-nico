@@ -7,7 +7,7 @@ El GES N°74 aborda las dos patologías crónicas principales:
 
 1. Estenosis Aórtica (EAo) Crónica: Es la valvulopatía más frecuente en países desarrollados. Consiste en una obstrucción a la salida del VI, causada por un engrosamiento, calcificación y reducción de la movilidad de las valvas aórticas, lo que disminuye el área de apertura valvular (AVA).
 
-	* Etiología: En adultos mayores ($\geq$ 70 años), la causa principal es la degenerativa o calcificada (senil). En pacientes más jóvenes (50-70 años), la válvula aórtica bicúspide (una malformación congénita) es la causa predominante, ya que la turbulencia y el estrés hemodinámico anormal que genera aceleran el proceso de fibrosis y calcificación. La fiebre reumática (fusión de comisuras) es una causa menos frecuente en la actualidad.
+	* Etiología: En adultos mayores (≥70 años), la causa principal es la degenerativa o calcificada (senil). En pacientes más jóvenes (50-70 años), la válvula aórtica bicúspide (una malformación congénita) es la causa predominante, ya que la turbulencia y el estrés hemodinámico anormal que genera aceleran el proceso de fibrosis y calcificación. La fiebre reumática (fusión de comisuras) es una causa menos frecuente en la actualidad.
 
 2. Insuficiencia Aórtica (IAo) Crónica: También llamada Regurgitación Aórtica. Consiste en un cierre incompetente de las valvas aórticas durante la diástole, lo que provoca un reflujo de sangre (volumen regurgitante) desde la aorta de vuelta hacia el ventrículo izquierdo.
 
@@ -135,7 +135,7 @@ La clasificación moderna (AHA/ACC 2020 y ESC 2021) es fundamental, ya que guía
 
 	* EAo-C: EAo Severa + FEVI < 50% (C1) o Test de esfuerzo anormal (que desenmascara síntomas o hipotensión) (C2).
 
-	* IAo-C: IAo Severa + FEVI $\leq$ 50% (C1) O Dilatación severa del VI (Diámetro Telesistólico -DTSVI- > 50 mm o > 25 mm/m²) (C2). El DTSVI es un marcador clave de que el VI ha alcanzado su límite de dilatación compensatoria.
+	* IAo-C: IAo Severa + FEVI ≤50% (C1) O Dilatación severa del VI (Diámetro Telesistólico -DTSVI- > 50 mm o > 25 mm/m²) (C2). El DTSVI es un marcador clave de que el VI ha alcanzado su límite de dilatación compensatoria.
 	
 	* Manejo: Indicación de Intervención Quirúrgica, a pesar de la ausencia de síntomas.
 

@@ -277,7 +277,7 @@ Todo paciente debe recibir un corticoide inhalado (CSI) para tratar la inflamaci
 
 ##Seguimiento
 
-* Ciclo de Manejo GINA: Evaluar $\rightarrow$ Ajustar $\rightarrow$ Revisar.
+* Ciclo de Manejo GINA: Evaluar→ Ajustar→ Revisar.
 
 * Frecuencia: Reevaluar 1-3 meses después de iniciar tratamiento o de una exacerbación (para asegurar que el control se ha alcanzado). Pacientes estables cada 6-12 meses.
 
@@ -297,4 +297,4 @@ Todo paciente debe recibir un corticoide inhalado (CSI) para tratar la inflamaci
 
 * Step-Up (Subir escalón): Si el control es malo tras 2-3 meses (y se ha descartado mala técnica, mala adherencia o comorbilidades no tratadas).
 
-* Step-Down (Bajar escalón): Considerar si el asma ha estado bien controlada (síntomas y riesgo) por $\geq$ 3 meses, para encontrar la dosis mínima eficaz de CSI que mantenga el control y minimice efectos adversos a largo plazo.
+* Step-Down (Bajar escalón): Considerar si el asma ha estado bien controlada (síntomas y riesgo) por ≥3 meses, para encontrar la dosis mínima eficaz de CSI que mantenga el control y minimice efectos adversos a largo plazo.

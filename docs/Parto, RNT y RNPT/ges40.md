@@ -1,5 +1,5 @@
 #GES N°40: Síndrome de Dificultad Respiratoria en el Recién Nacido
-##Generalidades y Definición
+##Generalidades y Definición 
 
 El Síndrome de Dificultad Respiratoria (SDR) del recién nacido (RN), también conocido históricamente como Enfermedad de Membrana Hialina (EMH), es la causa más frecuente de dificultad respiratoria en el recién nacido prematuro.
 

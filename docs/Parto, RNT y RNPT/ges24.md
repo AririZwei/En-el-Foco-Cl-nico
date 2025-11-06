@@ -15,7 +15,7 @@ El GES N°24 se enfoca exclusivamente en la prevención del Parto Prematuro Espo
 
 El PPE es un síndrome multifactorial, considerado la "vía final común" de múltiples procesos patológicos que activan prematuramente el miometrio y remodelan (ablandan y acortan) el cérvix. Las vías principales incluyen:
 
-1. Inflamación/Infección Intrauterina (Corioamnionitis): La infección ascendente (ej. Vaginosis Bacteriana, Ureaplasma, Mycoplasma) o sistémica (ej. ITU, Periodontitis) es una de las causas principales. Las bacterias producen fosfolipasas que, junto a las citoquinas proinflamatorias (IL-1, IL-6, TNF-$\alpha$), estimulan la producción de prostaglandinas (PGE2, PGF2$\alpha$), que son los mediadores finales que causan contracciones miometriales y remodelación cervical.
+1. Inflamación/Infección Intrauterina (Corioamnionitis): La infección ascendente (ej. Vaginosis Bacteriana, Ureaplasma, Mycoplasma) o sistémica (ej. ITU, Periodontitis) es una de las causas principales. Las bacterias producen fosfolipasas que, junto a las citoquinas proinflamatorias (IL-1, IL-6, TNF-α), estimulan la producción de prostaglandinas (PGE2, PGF2α), que son los mediadores finales que causan contracciones miometriales y remodelación cervical.
 
 2. Isquemia Útero-Placentaria (Abruptio): El sangrado decidual (ej. hematomas retrocoriales, desprendimiento de placenta) libera trombina, un potente estimulador de la contracción uterina y de la producción de metaloproteinasas que degradan las membranas.
 
@@ -31,7 +31,7 @@ El PPE es un síndrome multifactorial, considerado la "vía final común" de mú
 
 * Factores de Riesgo Uterinos/Cervicales:
 
-* Cérvix Corto: (Longitud cervical $\leq$ 25 mm) detectado por ecografía transvaginal en el segundo trimestre.
+* Cérvix Corto: (Longitud cervical ≤25 mm) detectado por ecografía transvaginal en el segundo trimestre.
 
 * Cirugía cervical previa: (Conización por LEEP/cono frío para displasia cervical). La extirpación de tejido cervical compromete su integridad estructural y puede eliminar glándulas productoras de moco protector.
 
@@ -75,7 +75,7 @@ El GES N°24 se centra en la paciente asintomática. El diagnóstico no es de un
 
 		* Cuándo: Se realiza de forma universal (en todas las embarazadas) o selectiva (solo en las de alto riesgo) entre las 18 y 24 semanas de gestación. Esta ventana es óptima porque es cuando el cérvix ha alcanzado su longitud nadir fisiológica y es antes del límite de viabilidad, permitiendo intervenciones efectivas.
 
-		* Hallazgo de Alto Riesgo: Cérvix Corto, definido como una LC $\leq$ 25 mm. Este hallazgo identifica al grupo de mujeres (incluso sin historia de PP) que más se beneficia de la intervención con progesterona.
+		* Hallazgo de Alto Riesgo: Cérvix Corto, definido como una LC ≤25 mm. Este hallazgo identifica al grupo de mujeres (incluso sin historia de PP) que más se beneficia de la intervención con progesterona.
 
 	* Fibronectina Fetal (fFN): Es una proteína (glicoproteína) que actúa como "pegamento" entre la decidua y el corion. Su presencia en secreción cervicovaginal después de las 22 semanas indica disrupción de esa interfase.
 
