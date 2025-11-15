@@ -179,12 +179,13 @@ nav:
             - 'GES-EX N°1: Anemia Ferropénica en Pediatría': Ges-EX/gesex01.md
             - 'GES-EX N°2: Talasemias en Pediatría': Ges-EX/gesex02.md
             - 'GES-EX N°3: Anemia Megaloblástica en Pediatría': Ges-EX/gesex03.md
-            - 'GES-EX N°4: Anemia normo/normo en Pediatría': Ges-EX/gesex04.md
-    
-    - EUNACOM:
-        
-        - Infectología
-            - 'Sepsis y Shock Séptico':    
+            - 'GES-EX N°4: Anemia normo/normo en Pediatría': Ges-EX/gesex04.md  
+    - ECOE:
+            - 'Dolor Torácico': ECOE/ECOE1.md
+            - 'Síndrome Coronario Agudo': ECOE/ECOE2.md
+            - 'TEP': ECOE/ECOE3.md
+            - 'Fibrilación Auricular': ECOE/ECOE4.md
+            - 'Insuficiencia Cardíaca Aguda y Crónica': ECOE/ECOE5.md
 # --- Plugins ---
 # Lista de plugins a utilizar y su configuración
 plugins:
