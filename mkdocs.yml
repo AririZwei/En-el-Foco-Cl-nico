@@ -186,6 +186,11 @@ nav:
             - 'TEP': ECOE/ECOE3.md
             - 'Fibrilación Auricular': ECOE/ECOE4.md
             - 'Insuficiencia Cardíaca Aguda y Crónica': ECOE/ECOE5.md
+            - 'ITU': ECOE/ECOE6.md
+            - 'Daño Hepático Crónico': ECOE/ECOE7.md
+            - 'Hemorragia Digestiva': ECOE/ECOE8.md
+            - 'Anemia': ECOE/ECOE9.md
+            - 'Crisis Hiperglicémica': ECOE/ECOE10.md
 # --- Plugins ---
 # Lista de plugins a utilizar y su configuración
 plugins:
