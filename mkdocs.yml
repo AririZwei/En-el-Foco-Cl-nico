@@ -190,6 +190,10 @@ nav:
             - 'Daño Hepático Crónico': ECOE/ECOE7.md
             - 'Hemorragia Digestiva': ECOE/ECOE8.md
             - 'Crisis Hiperglicémica': ECOE/ECOE9.md
+    - Pediatría:
+            - 'Coqueluche': Pediatría/1.md
+            - 'Síndrome de Down': Pediatría/2.md
+            - 'Celulitis Periorbitaria': Pediatría/3.md
 # --- Plugins ---
 # Lista de plugins a utilizar y su configuración
 plugins:
