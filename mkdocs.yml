@@ -1,0 +1,227 @@
+# --- Configuración General del Sitio ---
+# ¡Corregido! Quité un espacio en blanco al final de la URL
+site_url: https://aririzwei.github.io/En-el-Foco-Cl-nico/
+
+site_name: En el Foco Clínico
+site_description: Compendio de patologías GES para consulta rápida.
+site_author: (Fran "Ari" Ariamis Fernández Reyes)
+
+
+# --- Tema y Apariencia (Material for MkDocs) ---
+theme:
+    name: material
+    
+    # --- Logo y Favicon ---
+    logo: assets/Logo2.png
+    favicon: assets/logo.png
+
+    # --- Esquema de Color (Scheme) y Paleta (Palette) ---
+    palette:
+      
+      # Opciones para el Modo Claro (default)
+      - scheme: default
+        primary: indigo
+        accent: orange
+        toggle:
+          icon: material/weather-night
+          name: Cambiar a modo oscuro
+
+      # Opciones para el Modo Oscuro (slate)
+      - scheme: slate
+        primary: deep purple
+        accent: cyan
+        toggle:
+          icon: material/weather-sunny
+          name: Cambiar a modo claro
+
+    # --- Características (Features) ---
+    features:
+        - navigation.top
+        - search.suggest
+        - search.highlight
+        - content.code.copy
+        - navigation.footer
+        - content.social.links
+        - pwa.offline         # <-- ¡¡ERROR 2 CORREGIDO!! Faltaba esta línea para la PWA
+
+# --- Navegación (nav) ---
+# (Tu sección 'nav:' completa va aquí)
+# nav:
+#  - Inicio: index.md
+#  - ...
+
+# --- Plugins ---
+# (Tu sección 'plugins:' completa va aquí)
+# plugins:
+#   - search:
+#       lang: es
+#   - ...
+
+# --- Extras (Social Cards, Manifest PWA) ---
+# ¡¡ERROR 1 CORREGIDO!! Solo UNA sección "extra:"
+extra: 
+  social:
+    - icon: fontawesome/solid/book-medical
+    
+      link: https://aririzwei.github.io/En-el-Foco-Cl-nico/
+      
+  manifest: manifest.webmanifest # <-- 'manifest' va DENTRO del mismo 'extra:'
+
+# --- CSS Personalizado ---
+# ¡¡ERROR 3 CORREGIDO!! Movido al nivel principal (sin indentación)
+extra_css:
+  - assets/extra.css
+nav:
+    - Inicio: index.md
+    - Resúmenes GES:
+        - Enfermedades Cronicas:
+            - 'GES N°1: Insuficiencia Renal': Enfermedades Cronicas/ges01_irct.md
+            - 'GES N°6: Diabetes Mellitus tipo 1': Enfermedades Cronicas/ges06.md
+            - 'GES N°7: Diabetes Mellitus tipo 2': Enfermedades Cronicas/ges07.md
+            - 'GES N°18: VIH/SIDA': Enfermedades Cronicas/ges18.md
+            - 'GES N°21: Hipertensión Arterial Primaria/Esencial en personas de 15 años y más': Enfermedades Cronicas/ges21.md 
+            - 'GES N°33: Hemofilia': Enfermedades Cronicas/ges33.md 
+            - 'GES N°51: Fibrosis Quística': Enfermedades Cronicas/ges51.md
+            - 'GES N°52: Artritis Reumatoidea': Enfermedades Cronicas/ges52.md
+            - 'GES N°60: Epilepsia en el adulto': Enfermedades Cronicas/ges60.md
+            - 'GES N°62: Enfermedad de Parkinson': Enfermedades Cronicas/ges62.md
+            - 'GES N°63: Artritis Idiopática Juvenil/Artritis Reumatoidea Juvenil': Enfermedades Cronicas/ges63.md 
+            - 'GES N°67: Esclerosis Múltiple': Enfermedades Cronicas/ges67.md
+            - 'GES N°68: Virus Hepatitis B (VHB)': Enfermedades Cronicas/ges68.md
+            - 'GES N°69: Virus Hepatitis C (VHC)': Enfermedades Cronicas/ges69.md
+            - 'GES N°76: Hipotiroidismo en personas de 15 años y más': Enfermedades Cronicas/ges76.md
+            - 'GES N°78: Lupus Eritematoso Sistémico (LES)': Enfermedades Cronicas/ges78.md
+            - 'GES N°87: Sars-Cov-2': Enfermedades Cronicas/ges87.md
+        - Oncología:
+            - 'GES N°3: Cáncer Cervico Uterino': Oncologia/ges03.md
+            - 'GES N°4: Cuidados Paliativos': Oncologia/ges04.md
+            - 'GES N°8: Cáncer de Mama (Mayores de 15 años)': Oncologia/ges08.md
+            - 'GES N°14.1: Linfoma y Tumores Sólidos': Oncologia/ges141.md
+            - 'GES N°14.2: Leucemia': Oncologia/ges142.md
+            - 'GES N°16: Cáncer de Testículo': Oncologia/ges16.md
+            - 'GES N°17.1: Linfoma de Hodgkin': Oncologia/ges171.md
+            - 'GES N°17.2: Linfoma no Hodgkin': Oncologia/ges172.md
+            - 'GES N°26: Colecistectomía Preventiva en adultos de 35 a 49 años': Oncologia/ges26.md
+            - 'GES N°27: Cáncer Gástrico': Oncologia/ges27.md
+            - 'GES N°28: Cáncer de Próstata': Oncologia/ges28.md
+            - 'GES N°45.1: Leucemia Aguda': Oncologia/ges451.md
+            - 'GES N°45.2: Leucemia Crónica': Oncologia/ges452.md
+            - 'GES N°70: Cáncer Colorrectal': Oncologia/ges70.md
+            - 'GES N°71: Cáncer Ovario Epitelial': Oncologia/ges71.md
+            - 'GES N°72: Cáncer Vesical': Oncologia/ges72.md
+            - 'GES N°73: Osteosarcoma': Oncologia/ges73.md
+            - 'GES N°81: Cáncer Pulmonar': Oncologia/ges81.md
+            - 'GES N°82: Cáncer de Tiroides': Oncologia/ges82.md
+            - 'GES N°83: Cáncer Renal': Oncologia/ges83.md
+            - 'GES N°84: Mieloma Múltiple': Oncologia/ges84.md
+        - Enfermedades del Corazon y Cerebro:
+            - 'GES N°5: IAMCEST': Enfermedades del Corazon y Cerebro/ges05.md
+            - 'GES N°25: Trastornos de Generación del Impulso y su Conducción, que requieren Marcapaso': Enfermedades del Corazon y Cerebro/ges25.md
+            - 'GES N°37: Accidente Cerebrovascular (ACV) Isquémico': Enfermedades del Corazon y Cerebro/ges37.md
+            - 'GES N°42: Hemorragia Subaracnoídea a Rotura de Aneurismas Cerebrales': Enfermedades del Corazon y Cerebro/ges42.md
+        - Accidentes Graves: 
+            - 'GES N°48: Politraumatizado': Accidentes Graves/ges48.md
+            - 'GES N°49: Traumatismo Craneoencefálico (TEC)': Accidentes Graves/ges49.md
+            - 'GES N°50: Trauma Ocular': Accidentes Graves/ges50.md
+            - 'GES N°55: Gran Quemado': Accidentes Graves/ges55.md
+        - Enfermedades Respiratorias:
+            - 'GES N°20: Neumonía Adquirida en la Comunidad (NAC)': Enfermedades Respiratorias/ges20.md
+            - 'GES N°38: EPOC Ambulatorio': Enfermedades Respiratorias/ges38.md
+            - 'GES N°58: Displasia Broncopulmonar del Prematuro': Enfermedades Respiratorias/ges58.md
+            - 'GES N°61: Asma Bronquial en Adultos': Enfermedades Respiratorias/ges61.md
+        - Enfermedades de la Visión:
+            - 'GES N°11: Cataratas Congénitas y Adquiridas': Enfermedades de la Visión/ges11.md
+            - 'GES N°31: Retinopatía Diabética': Enfermedades de la Visión/ges31.md
+            - 'GES N°32: Desprendimiento de Retina Regmatógeno no Traumático': Enfermedades de la Visión/ges32.md
+        - Intervenciones Quirúrgicas:
+            - 'GES N°10: Escoliosis': Intervenciones Quirúrgicas/ges10.md
+            - 'GES N°35: Hiperplasia Prostática Benigna Sintomática': Intervenciones Quirúrgicas/ges35.md
+            - 'GES N°43: Tumores Primarios del SNC': Intervenciones Quirúrgicas/ges43.md
+            - 'GES N°74: Lesiones Crónicas de Válvula Aórtica': Intervenciones Quirúrgicas/ges74.md
+            - 'GES N°79: Lesiones Crónicas de las Válvulas Mitral y Tricúspide': Intervenciones Quirúrgicas/ges79.md
+        - Parto, RNT y RNPT:
+            - 'GES N°24: Prevención del Parto Prematuro': Parto, RNT y RNPT/ges24.md
+            - 'GES N°40: Síndrome de Dificultad Respiratoria en el Recién Nacido': Parto, RNT y RNPT/ges40.md
+            - 'GES N°54: Analgesia del Parto': Parto, RNT y RNPT/ges54.md
+            - 'GES N°57: Retinopatía del Prematuro': Parto, RNT y RNPT/ges57.md
+            - 'GES N°59: Hipoacusia Neurosensorial Bilateral del Prematuro': Parto, RNT y RNPT/ges59.md
+        - Salud Mental:
+            - 'GES N°15: Esquizofrenia': Salud Mental/ges15.md
+            - 'GES N°34: Depresión': Salud Mental/ges34.md
+            - 'GES N°53: Consumo Perjudicial y Dependencia de Alcohol y Drogas': Salud Mental/ges53.md
+            - 'GES N°75: Trastorno Bipolar': Salud Mental/ges75.md
+            - 'GES N°85: Enfermedad de Alzheimer y otras Demencias': Salud Mental/ges85.md
+        - Salud Oral:
+            - 'GES N°46: Urgencia Odontológica Ambulatoria': Salud Oral/ges46.md
+            - 'GES N°66: Atención Odontológica Integral de la Embarazada': Salud Oral/ges66.md
+        - Salud del Adulto Mayor de 65 años:
+            - 'GES N°12: Artrosis de Cadera con Limitación Funcional Severa': Salud del Adulto Mayor de 65 años/ges12.md
+            - 'GES N°29: Vicios de Refracción': Salud del Adulto Mayor de 65 años/ges29.md
+            - 'GES N°36: Ayudas Técnicas': Salud del Adulto Mayor de 65 años/ges36.md
+            - 'GES N°41: Artrosis de Cadera y/o Rodilla Leve o Moderada': Salud del Adulto Mayor de 65 años/ges41.md
+            - 'GES N°47: Salud Oral Integral para personas con Edentulismo Parcial o Total': Salud del Adulto Mayor de 65 años/ges47.md
+            - 'GES N°56: Hipoacusia Bilateral que requiere uso de Audífono': Salud del Adulto Mayor de 65 años/ges56.md
+        - Salud en Personas Menores de 15 años:
+            - 'GES N°2: Cardiopatías Congénitas Operables': Salud en Personas Menores de 15 años/ges02.md
+            - 'GES N°9: Disrafías Espinales': Salud en Personas Menores de 15 años/ges09.md
+            - 'GES N°13: Fisura Labiopalatina': Salud en Personas Menores de 15 años/ges13.md
+            - 'GES N°19: Infección Respiratoria Baja Ambulatoria': Salud en Personas Menores de 15 años/ges19.md
+            - 'GES N°22: Epilepsia no Refractaria': Salud en Personas Menores de 15 años/ges22.md
+            - 'GES N°23: Salud Oral Integral en niños y niñas de 6 años': Salud en Personas Menores de 15 años/ges23.md
+            - 'GES N°30: Estrabismo en menores de 9 años': Salud en Personas Menores de 15 años/ges30.md
+            - 'GES N°39: Asma': Salud en Personas Menores de 15 años/ges39.md
+            - 'GES N°65: Displasia Luxante de Cadera': Salud en Personas Menores de 15 años/ges65.md
+            - 'GES N°77: Hipoacusia Moderada en menores de 4 años': Salud en Personas Menores de 15 años/ges77.md     
+        - Tratamientos Preventivos:
+            - 'GES N°64: Prevención Secundaria de la ERCT': Tratamientos Preventivos/ges64.md
+            - 'GES N°80: Helicobacter Pylori': Tratamientos Preventivos/ges80.md
+    - GES-EX:
+            - 'GES-EX N°1: Anemia Ferropénica en Pediatría': Ges-EX/gesex01.md
+            - 'GES-EX N°2: Talasemias en Pediatría': Ges-EX/gesex02.md
+            - 'GES-EX N°3: Anemia Megaloblástica en Pediatría': Ges-EX/gesex03.md
+            - 'GES-EX N°4: Anemia normo/normo en Pediatría': Ges-EX/gesex04.md  
+    - ECOE:
+            - 'Dolor Torácico': ECOE/ECOE1.md
+            - 'Síndrome Coronario Agudo': ECOE/ECOE2.md
+            - 'TEP': ECOE/ECOE3.md
+            - 'Fibrilación Auricular': ECOE/ECOE4.md
+            - 'Insuficiencia Cardíaca Aguda y Crónica': ECOE/ECOE5.md
+            - 'ITU': ECOE/ECOE6.md
+            - 'Daño Hepático Crónico': ECOE/ECOE7.md
+            - 'Hemorragia Digestiva': ECOE/ECOE8.md
+            - 'Crisis Hiperglicémica': ECOE/ECOE9.md
+    - Pediatría:
+            - 'Coqueluche': Pediatría/1.md
+            - 'Síndrome de Down': Pediatría/2.md
+            - 'Celulitis Periorbitaria': Pediatría/3.md
+# --- Plugins ---
+# Lista de plugins a utilizar y su configuración
+plugins:
+    - search:
+        lang: es                # Habilita búsqueda en español
+        separator: '[\s\-\.]+'  # Mejora la búsqueda
+    
+    - tags:                     # NUEVO: Habilita el plugin de etiquetas
+        tags_file: 'tags.md'    # Opcional: crea una página con todas las etiquetas
+
+    - git-revision-date-localized: # NUEVO: Muestra la fecha de última actualización
+        type: date              # Muestra la fecha (ej. "30 de octubre de 2025")
+        locale: es              # Configura la fecha en español
+        fallback: '[En desarrollo]' # Texto para páginas nuevas aún no guardadas en Git
+
+    - awesome-pages             # Gestiona la navegación automáticamente
+    - macros                    # Permite usar variables y macros
+    - mermaid2                  # Permite crear diagramas con sintaxis Mermaid
+    - glightbox                 # Habilita el lightbox para imágenes
+    
+    - print-site:               # Habilita la opción de imprimir/exportar a PDF
+        add_to_navigation: true # Añade un enlace de 'Imprimir' al menú
+        print_page_title: 'Imprimir esta página'
+        # La línea 'banner_template' se eliminó porque causaba un error (opción no válida)
+    
+    - minify:                   # Optimiza los archivos generados
+        minify_html: true
+        minify_js: true
+        minify_css: true
+        htmlmin_opts:
+            remove_comments: true
