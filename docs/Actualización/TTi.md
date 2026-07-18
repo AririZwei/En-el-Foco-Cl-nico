@@ -49,7 +49,7 @@ Escala Burch-Wartofsky--> Asigna puntos en base a los signos clínicos:
 
 	* 25 a 44 pts: Sugiere posible crisis.
 		
-	* > 45: Altas probabilidades de crisis tiroidea.
+	* ≥45: Altas probabilidades de crisis tiroidea.
 	
 ![Clasificación](../imagenes/TTi/Escala.PNG)
 	
