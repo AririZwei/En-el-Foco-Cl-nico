@@ -74,9 +74,8 @@ extra_css:
 nav:
     - Inicio: index.md
     - Guías Actualizadas: 
-     - Endocrinología: 
-        - 'Tormenta Tiroidea': Actualización/TTi.md
-        - 
+        - Endocrinología:
+            - 'Tormenta Tiroidea': Actualización/TTi.md
 # --- Plugins ---
 # Lista de plugins a utilizar y su configuración
 plugins:

@@ -15,46 +15,45 @@ La tormenta tiroidea suele ser gatillada por factores precipitantes, principalme
 * Descontinuación de la medicación antitiroidea.
 
 ##Presentación Clínica y diagnostico
+Síntomas/Signos asociados con la tirotoxicosis:
+	
+* Gota: Con o sin nódulos.
+	
+* Oftalmopatía tiroidea--> Pacientes con Enf. Graves.
+	
+* Fiebre >38,5 °C.
+	
+* Taquicardia desproporcionada al nivel de la fiebre.
+	
+* Arritmias--> FA.
+	
+* Insuf. Cardiaca.
+	
+* Edema Pulmonar.
+	
+* Alteración del estado mental--> Desde la agitación hasta el coma.
+	
+* Gastrointestinal: Náusea, vómitos, diarrea y/o ictericia.
+	
+* Pacientes jovenes--> Cardiomiopatía dilatada reversible y Takotsubo pueden ser vistas en Crisis tirotoxicosas.
 
-* Síntomas/Signos asociados con la tirotoxicosis:
+* Adultos mayores--> Síntomas y signos clásicos de tirotoxicosis pueden estar ausentes (Hipertiroidismo apático).
 	
-	* Gota: Con o sin nódulos.
-	
-	* Oftalmopatía tiroidea--> Pacientes con Enf. Graves.
-	
-	* Fiebre >38,5 °C.
-	
-	* Taquicardia desproporcionada al nivel de la fiebre.
-	
-	* Arritmias--> FA.
-	
-	* Insuf. Cardiaca.
-	
-	* Edema Pulmonar.
-	
-	* Alteración del estado mental--> Desde la agitación hasta el coma.
-	
-	* Gastrointestinal: Náusea, vómitos, diarrea y/o ictericia.
-	
-	* Pacientes jovenes--> Cardiomiopatía dilatada reversible y Takotsubo pueden ser vistas en Crisis tirotoxicosas.
+Escala Burch-Wartofsky--> Asigna puntos en base a los signos clínicos:
 
-	* Adultos mayores--> Síntomas y signos clásicos de tirotoxicosis pueden estar ausentes (Hipertiroidismo apático).
+* Criterios: Temperatura, SNC, Frecuencia Cardiaca, Síntomas G.I y Factores precipitantes.
 	
-* Escala Burch-Wartofsky--> Asigna puntos en base a los signos clínicos:
+* Interpretación:
 
-	* Criterios: Temperatura, SNC, Frecuencia Cardiaca, Síntomas G.I y Factores precipitantes.
-	
-	* Interpretación:
+	* < 25 pts: Poco probable que sea una Tormenta tiroidea.
 
-		* <25 pts: Poco probable que sea una Tormenta tiroidea.
-
-		* 25 a 44 pts: Sugiere posible crisis.
+	* 25 a 44 pts: Sugiere posible crisis.
 		
-		* >45: Altas probabilidades de crisis tiroidea.
+	* > 45: Altas probabilidades de crisis tiroidea.
 	
 ![Clasificación](../imagenes/TTi/Escala.PNG)
 	
-* Criterios JTA/JES--> Catergoriza pacientes en "Tormenta tiroidea definitiva (TS1)" o "Tormenta tiroidea sospechada (TS2).
+Criterios JTA/JES--> Catergoriza pacientes en "Tormenta tiroidea definitiva (TS1)" o "Tormenta tiroidea sospechada (TS2).
 
 ![Clasificación](../imagenes/TTi/Jap.PNG)
 
